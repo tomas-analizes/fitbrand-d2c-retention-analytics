@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# SQLite temporales
+*.db-journal
+
+# Entornos virtuales
+venv/
+env/

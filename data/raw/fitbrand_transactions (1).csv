@@ -1,0 +1,1808 @@
+client_id,age,acquisition_channel,product,purchase_amount_usd,purchase_date,purchase_number
+1001,18,TikTok,Creatine,35,2026-05-14,1
+1001,18,TikTok,Creatine,35,2026-07-11,2
+1001,18,TikTok,Creatine,35,2026-09-21,3
+1002,36,TikTok,Multivitamin,25,2025-10-02,1
+1002,36,TikTok,Multivitamin,25,2026-01-01,2
+1003,34,Instagram,Whey Protein,55,2026-01-01,1
+1004,25,Organic,Multivitamin,25,2025-12-13,1
+1004,25,Organic,Multivitamin,25,2026-03-13,2
+1005,28,Organic,Creatine,35,2026-06-18,1
+1005,28,Organic,Creatine,35,2026-08-15,2
+1006,21,Organic,Creatine,35,2026-05-27,1
+1007,43,Ambassador,Whey Protein,55,2026-08-14,1
+1008,30,TikTok,Whey Protein,55,2025-10-24,1
+1009,36,Ambassador,Pre-Workout,40,2026-02-24,1
+1010,39,TikTok,Pre-Workout,40,2025-10-03,1
+1011,45,TikTok,Pre-Workout,40,2025-12-11,1
+1012,26,Organic,Multivitamin,25,2026-03-26,1
+1012,26,Organic,Multivitamin,25,2026-06-24,2
+1013,24,Ambassador,Creatine,35,2025-10-02,1
+1014,37,TikTok,Pre-Workout,40,2025-12-04,1
+1015,23,Instagram,Multivitamin,25,2026-05-18,1
+1015,23,Instagram,Multivitamin,25,2026-08-21,2
+1016,44,Instagram,Whey Protein,55,2026-04-09,1
+1017,26,Organic,Whey Protein,55,2025-12-12,1
+1017,26,Organic,Whey Protein,55,2026-01-12,2
+1017,26,Organic,Whey Protein,55,2026-02-26,3
+1017,26,Organic,Whey Protein,55,2026-04-07,4
+1018,38,Organic,Multivitamin,25,2026-04-26,1
+1018,38,Organic,Multivitamin,25,2026-07-27,2
+1019,41,Ambassador,Multivitamin,25,2026-07-15,1
+1020,29,Organic,Pre-Workout,40,2025-09-25,1
+1021,34,Instagram,Multivitamin,25,2026-07-14,1
+1022,38,Instagram,Pre-Workout,40,2026-06-04,1
+1023,37,Organic,Whey Protein,55,2026-01-25,1
+1023,37,Organic,Whey Protein,55,2026-03-07,2
+1023,37,Organic,Whey Protein,55,2026-04-09,3
+1023,37,Organic,Whey Protein,55,2026-05-21,4
+1023,37,Organic,Whey Protein,55,2026-06-15,5
+1024,39,TikTok,Creatine,35,2025-11-18,1
+1025,21,Ambassador,Creatine,35,2026-09-07,1
+1026,34,Ambassador,Pre-Workout,40,2026-01-23,1
+1026,34,Ambassador,Pre-Workout,40,2026-03-24,2
+1027,44,Ambassador,Pre-Workout,40,2025-10-26,1
+1027,44,Ambassador,Pre-Workout,40,2025-12-22,2
+1027,44,Ambassador,Pre-Workout,40,2026-02-16,3
+1028,37,TikTok,Creatine,35,2025-10-28,1
+1029,29,TikTok,Creatine,35,2026-07-29,1
+1030,20,TikTok,Multivitamin,25,2026-05-01,1
+1031,22,Instagram,Multivitamin,25,2026-07-14,1
+1032,26,Instagram,Multivitamin,25,2026-06-16,1
+1033,40,Instagram,Creatine,35,2026-04-06,1
+1033,40,Instagram,Creatine,35,2026-06-14,2
+1033,40,Instagram,Creatine,35,2026-08-24,3
+1034,25,TikTok,Pre-Workout,40,2026-09-13,1
+1035,36,Instagram,Pre-Workout,40,2026-02-08,1
+1035,36,Instagram,Pre-Workout,40,2026-03-27,2
+1036,19,TikTok,Creatine,35,2026-04-12,1
+1036,19,TikTok,Creatine,35,2026-06-14,2
+1036,19,TikTok,Creatine,35,2026-08-23,3
+1037,35,Instagram,Pre-Workout,40,2026-07-22,1
+1038,25,Organic,Multivitamin,25,2026-05-06,1
+1039,21,Instagram,Whey Protein,55,2026-08-03,1
+1040,31,Ambassador,Multivitamin,25,2026-04-21,1
+1040,31,Ambassador,Multivitamin,25,2026-08-04,2
+1041,19,TikTok,Multivitamin,25,2026-06-07,1
+1042,25,TikTok,Pre-Workout,40,2025-10-09,1
+1042,25,TikTok,Pre-Workout,40,2025-11-22,2
+1042,25,TikTok,Pre-Workout,40,2026-01-14,3
+1042,25,TikTok,Pre-Workout,40,2026-02-28,4
+1042,25,TikTok,Pre-Workout,40,2026-04-17,5
+1043,25,Organic,Whey Protein,55,2025-12-15,1
+1043,25,Organic,Whey Protein,55,2026-01-10,2
+1044,20,TikTok,Pre-Workout,40,2026-01-06,1
+1044,20,TikTok,Pre-Workout,40,2026-03-02,2
+1044,20,TikTok,Pre-Workout,40,2026-04-17,3
+1044,20,TikTok,Pre-Workout,40,2026-06-08,4
+1044,20,TikTok,Pre-Workout,40,2026-07-19,5
+1045,30,Instagram,Whey Protein,55,2025-10-22,1
+1046,43,Ambassador,Multivitamin,25,2025-12-16,1
+1046,43,Ambassador,Multivitamin,25,2026-03-15,2
+1046,43,Ambassador,Multivitamin,25,2026-06-14,3
+1046,43,Ambassador,Multivitamin,25,2026-09-16,4
+1047,36,TikTok,Whey Protein,55,2025-10-29,1
+1048,19,TikTok,Multivitamin,25,2026-01-02,1
+1049,19,Instagram,Whey Protein,55,2026-05-13,1
+1050,37,TikTok,Whey Protein,55,2026-02-03,1
+1051,30,Instagram,Whey Protein,55,2026-02-05,1
+1052,36,Instagram,Whey Protein,55,2025-12-08,1
+1053,39,Organic,Creatine,35,2025-12-29,1
+1054,39,Instagram,Creatine,35,2026-08-30,1
+1055,32,Ambassador,Creatine,35,2026-05-17,1
+1056,18,TikTok,Multivitamin,25,2026-05-03,1
+1057,20,TikTok,Pre-Workout,40,2025-11-24,1
+1058,29,Instagram,Whey Protein,55,2026-06-16,1
+1059,27,Ambassador,Pre-Workout,40,2025-11-21,1
+1059,27,Ambassador,Pre-Workout,40,2026-01-19,2
+1059,27,Ambassador,Pre-Workout,40,2026-03-20,3
+1059,27,Ambassador,Pre-Workout,40,2026-05-15,4
+1060,39,TikTok,Creatine,35,2026-02-08,1
+1061,22,TikTok,Creatine,35,2026-09-19,1
+1062,26,Instagram,Creatine,35,2026-05-14,1
+1063,24,Ambassador,Creatine,35,2026-04-14,1
+1063,24,Ambassador,Creatine,35,2026-06-09,2
+1063,24,Ambassador,Creatine,35,2026-08-05,3
+1064,44,Organic,Creatine,35,2026-05-30,1
+1064,44,Organic,Creatine,35,2026-07-28,2
+1065,23,Ambassador,Multivitamin,25,2026-07-27,1
+1066,21,TikTok,Whey Protein,55,2026-07-03,1
+1067,35,Instagram,Whey Protein,55,2025-12-15,1
+1068,31,Instagram,Pre-Workout,40,2025-10-04,1
+1068,31,Instagram,Pre-Workout,40,2025-11-14,2
+1068,31,Instagram,Pre-Workout,40,2026-01-04,3
+1068,31,Instagram,Pre-Workout,40,2026-02-19,4
+1069,39,Instagram,Whey Protein,55,2026-01-16,1
+1069,39,Instagram,Whey Protein,55,2026-03-01,2
+1069,39,Instagram,Whey Protein,55,2026-03-30,3
+1069,39,Instagram,Whey Protein,55,2026-05-01,4
+1069,39,Instagram,Whey Protein,55,2026-05-31,5
+1070,31,Instagram,Whey Protein,55,2025-12-29,1
+1070,31,Instagram,Whey Protein,55,2026-02-05,2
+1070,31,Instagram,Whey Protein,55,2026-03-09,3
+1070,31,Instagram,Whey Protein,55,2026-04-11,4
+1071,43,Instagram,Whey Protein,55,2025-12-09,1
+1071,43,Instagram,Whey Protein,55,2026-01-18,2
+1072,24,Instagram,Multivitamin,25,2026-09-02,1
+1073,39,TikTok,Pre-Workout,40,2026-08-08,1
+1074,45,Ambassador,Whey Protein,55,2026-01-15,1
+1075,29,Ambassador,Multivitamin,25,2026-05-20,1
+1076,18,Ambassador,Whey Protein,55,2026-02-14,1
+1077,23,Ambassador,Creatine,35,2026-08-22,1
+1078,31,Ambassador,Whey Protein,55,2026-03-09,1
+1078,31,Ambassador,Whey Protein,55,2026-04-11,2
+1078,31,Ambassador,Whey Protein,55,2026-05-07,3
+1079,18,Organic,Pre-Workout,40,2025-12-28,1
+1079,18,Organic,Pre-Workout,40,2026-02-16,2
+1080,39,Ambassador,Whey Protein,55,2025-12-22,1
+1081,34,Ambassador,Creatine,35,2026-04-15,1
+1082,30,Ambassador,Creatine,35,2025-12-27,1
+1082,30,Ambassador,Creatine,35,2026-03-05,2
+1082,30,Ambassador,Creatine,35,2026-05-11,3
+1083,37,Instagram,Creatine,35,2026-04-24,1
+1084,27,TikTok,Creatine,35,2026-08-16,1
+1085,32,Organic,Pre-Workout,40,2026-02-15,1
+1085,32,Organic,Pre-Workout,40,2026-03-29,2
+1085,32,Organic,Pre-Workout,40,2026-05-17,3
+1086,20,Ambassador,Pre-Workout,40,2025-12-12,1
+1087,43,Instagram,Pre-Workout,40,2026-09-22,1
+1088,37,Organic,Whey Protein,55,2026-03-27,1
+1088,37,Organic,Whey Protein,55,2026-05-03,2
+1088,37,Organic,Whey Protein,55,2026-06-12,3
+1089,25,Organic,Pre-Workout,40,2025-10-26,1
+1090,42,TikTok,Whey Protein,55,2025-10-10,1
+1091,23,Instagram,Multivitamin,25,2025-11-02,1
+1091,23,Instagram,Multivitamin,25,2026-01-29,2
+1091,23,Instagram,Multivitamin,25,2026-05-08,3
+1092,43,Instagram,Multivitamin,25,2026-05-10,1
+1093,42,Ambassador,Multivitamin,25,2026-07-09,1
+1094,23,Organic,Multivitamin,25,2026-02-24,1
+1094,23,Organic,Multivitamin,25,2026-06-09,2
+1094,23,Organic,Multivitamin,25,2026-09-10,3
+1095,38,Organic,Pre-Workout,40,2025-10-16,1
+1095,38,Organic,Pre-Workout,40,2025-12-04,2
+1096,26,Instagram,Creatine,35,2026-02-09,1
+1096,26,Instagram,Creatine,35,2026-04-09,2
+1097,25,Instagram,Multivitamin,25,2026-09-21,1
+1098,20,Instagram,Multivitamin,25,2026-04-04,1
+1099,31,Organic,Whey Protein,55,2026-09-12,1
+1100,45,TikTok,Multivitamin,25,2026-08-03,1
+1101,27,Ambassador,Multivitamin,25,2025-09-27,1
+1102,35,Organic,Pre-Workout,40,2026-06-13,1
+1102,35,Organic,Pre-Workout,40,2026-08-05,2
+1103,30,TikTok,Creatine,35,2026-05-29,1
+1104,41,Organic,Pre-Workout,40,2026-04-06,1
+1105,37,Instagram,Whey Protein,55,2025-12-29,1
+1106,20,TikTok,Multivitamin,25,2026-05-14,1
+1106,20,TikTok,Multivitamin,25,2026-08-12,2
+1107,30,Ambassador,Creatine,35,2025-11-02,1
+1107,30,Ambassador,Creatine,35,2026-01-06,2
+1107,30,Ambassador,Creatine,35,2026-03-14,3
+1107,30,Ambassador,Creatine,35,2026-05-16,4
+1108,26,Organic,Whey Protein,55,2026-02-28,1
+1108,26,Organic,Whey Protein,55,2026-04-05,2
+1109,38,Instagram,Whey Protein,55,2026-03-07,1
+1110,42,TikTok,Whey Protein,55,2026-09-06,1
+1111,44,Instagram,Whey Protein,55,2026-08-08,1
+1112,22,Instagram,Multivitamin,25,2025-12-28,1
+1113,32,Instagram,Creatine,35,2026-03-24,1
+1114,37,Instagram,Whey Protein,55,2025-11-27,1
+1115,27,Instagram,Whey Protein,55,2026-08-22,1
+1116,36,Ambassador,Multivitamin,25,2026-08-06,1
+1117,21,Instagram,Creatine,35,2026-01-09,1
+1118,43,TikTok,Whey Protein,55,2026-05-14,1
+1119,39,Organic,Creatine,35,2026-05-03,1
+1119,39,Organic,Creatine,35,2026-06-27,2
+1119,39,Organic,Creatine,35,2026-09-03,3
+1120,31,TikTok,Creatine,35,2025-11-17,1
+1121,40,Organic,Pre-Workout,40,2026-06-28,1
+1121,40,Organic,Pre-Workout,40,2026-08-26,2
+1122,32,Organic,Multivitamin,25,2026-04-07,1
+1123,28,Ambassador,Pre-Workout,40,2026-07-04,1
+1124,26,TikTok,Multivitamin,25,2026-04-04,1
+1124,26,TikTok,Multivitamin,25,2026-07-16,2
+1125,28,Organic,Whey Protein,55,2025-09-23,1
+1125,28,Organic,Whey Protein,55,2025-10-23,2
+1125,28,Organic,Whey Protein,55,2025-12-02,3
+1125,28,Organic,Whey Protein,55,2026-01-02,4
+1126,43,Ambassador,Creatine,35,2026-01-19,1
+1126,43,Ambassador,Creatine,35,2026-04-01,2
+1126,43,Ambassador,Creatine,35,2026-05-26,3
+1126,43,Ambassador,Creatine,35,2026-08-05,4
+1127,20,Instagram,Pre-Workout,40,2025-09-30,1
+1128,35,Organic,Pre-Workout,40,2026-08-28,1
+1129,32,Organic,Whey Protein,55,2026-08-09,1
+1129,32,Organic,Whey Protein,55,2026-09-15,2
+1130,39,Ambassador,Creatine,35,2026-07-23,1
+1131,29,Ambassador,Multivitamin,25,2026-01-13,1
+1131,29,Ambassador,Multivitamin,25,2026-04-15,2
+1131,29,Ambassador,Multivitamin,25,2026-07-12,3
+1132,21,Ambassador,Pre-Workout,40,2025-10-14,1
+1132,21,Ambassador,Pre-Workout,40,2025-12-01,2
+1132,21,Ambassador,Pre-Workout,40,2026-01-28,3
+1132,21,Ambassador,Pre-Workout,40,2026-03-25,4
+1132,21,Ambassador,Pre-Workout,40,2026-05-23,5
+1133,21,Ambassador,Pre-Workout,40,2026-08-09,1
+1133,21,Ambassador,Pre-Workout,40,2026-09-23,2
+1134,40,TikTok,Pre-Workout,40,2026-09-03,1
+1135,35,TikTok,Creatine,35,2025-10-24,1
+1136,38,Instagram,Multivitamin,25,2026-03-19,1
+1136,38,Instagram,Multivitamin,25,2026-06-30,2
+1137,33,Ambassador,Multivitamin,25,2025-10-18,1
+1137,33,Ambassador,Multivitamin,25,2026-01-12,2
+1137,33,Ambassador,Multivitamin,25,2026-04-15,3
+1138,21,Organic,Whey Protein,55,2026-06-27,1
+1138,21,Organic,Whey Protein,55,2026-08-09,2
+1139,22,TikTok,Pre-Workout,40,2026-06-29,1
+1140,20,Ambassador,Pre-Workout,40,2025-11-08,1
+1140,20,Ambassador,Pre-Workout,40,2026-01-06,2
+1140,20,Ambassador,Pre-Workout,40,2026-03-06,3
+1140,20,Ambassador,Pre-Workout,40,2026-05-04,4
+1140,20,Ambassador,Pre-Workout,40,2026-06-20,5
+1141,32,Organic,Multivitamin,25,2026-03-15,1
+1141,32,Organic,Multivitamin,25,2026-06-17,2
+1142,37,TikTok,Whey Protein,55,2026-04-11,1
+1143,38,Instagram,Pre-Workout,40,2025-12-28,1
+1143,38,Instagram,Pre-Workout,40,2026-02-11,2
+1144,23,Instagram,Whey Protein,55,2026-08-07,1
+1144,23,Instagram,Whey Protein,55,2026-09-15,2
+1145,27,Organic,Whey Protein,55,2026-02-24,1
+1145,27,Organic,Whey Protein,55,2026-04-04,2
+1145,27,Organic,Whey Protein,55,2026-05-01,3
+1145,27,Organic,Whey Protein,55,2026-06-02,4
+1146,43,Ambassador,Pre-Workout,40,2025-12-09,1
+1146,43,Ambassador,Pre-Workout,40,2026-02-07,2
+1146,43,Ambassador,Pre-Workout,40,2026-03-23,3
+1147,44,Ambassador,Pre-Workout,40,2026-04-07,1
+1147,44,Ambassador,Pre-Workout,40,2026-05-26,2
+1147,44,Ambassador,Pre-Workout,40,2026-07-24,3
+1148,32,Ambassador,Whey Protein,55,2026-06-16,1
+1148,32,Ambassador,Whey Protein,55,2026-07-23,2
+1148,32,Ambassador,Whey Protein,55,2026-08-25,3
+1149,32,Organic,Whey Protein,55,2025-12-05,1
+1149,32,Organic,Whey Protein,55,2026-01-09,2
+1149,32,Organic,Whey Protein,55,2026-02-22,3
+1149,32,Organic,Whey Protein,55,2026-03-27,4
+1149,32,Organic,Whey Protein,55,2026-04-21,5
+1150,25,TikTok,Whey Protein,55,2026-01-14,1
+1151,36,Ambassador,Whey Protein,55,2026-09-21,1
+1152,33,Instagram,Multivitamin,25,2026-05-18,1
+1153,36,Instagram,Multivitamin,25,2026-03-01,1
+1154,20,Organic,Multivitamin,25,2026-03-30,1
+1154,20,Organic,Multivitamin,25,2026-07-03,2
+1155,28,Instagram,Multivitamin,25,2025-11-06,1
+1156,39,Ambassador,Multivitamin,25,2025-12-14,1
+1157,32,TikTok,Whey Protein,55,2026-01-24,1
+1158,21,Ambassador,Multivitamin,25,2026-04-25,1
+1159,39,TikTok,Multivitamin,25,2025-12-15,1
+1160,34,Instagram,Creatine,35,2025-12-12,1
+1161,38,Organic,Multivitamin,25,2025-10-18,1
+1162,26,Instagram,Pre-Workout,40,2026-05-11,1
+1163,40,Organic,Multivitamin,25,2025-12-15,1
+1163,40,Organic,Multivitamin,25,2026-03-15,2
+1163,40,Organic,Multivitamin,25,2026-06-17,3
+1164,35,TikTok,Multivitamin,25,2026-08-19,1
+1165,38,TikTok,Pre-Workout,40,2026-08-02,1
+1166,34,Ambassador,Creatine,35,2025-10-18,1
+1166,34,Ambassador,Creatine,35,2025-12-27,2
+1166,34,Ambassador,Creatine,35,2026-02-27,3
+1166,34,Ambassador,Creatine,35,2026-05-07,4
+1166,34,Ambassador,Creatine,35,2026-07-18,5
+1167,30,Instagram,Pre-Workout,40,2025-12-18,1
+1168,45,Instagram,Whey Protein,55,2026-05-25,1
+1168,45,Instagram,Whey Protein,55,2026-06-29,2
+1168,45,Instagram,Whey Protein,55,2026-08-09,3
+1168,45,Instagram,Whey Protein,55,2026-09-11,4
+1169,41,Ambassador,Creatine,35,2025-12-10,1
+1170,45,Organic,Pre-Workout,40,2025-11-10,1
+1170,45,Organic,Pre-Workout,40,2025-12-31,2
+1170,45,Organic,Pre-Workout,40,2026-02-19,3
+1170,45,Organic,Pre-Workout,40,2026-04-17,4
+1170,45,Organic,Pre-Workout,40,2026-06-13,5
+1171,32,Organic,Creatine,35,2026-08-30,1
+1172,36,Instagram,Multivitamin,25,2026-04-19,1
+1172,36,Instagram,Multivitamin,25,2026-07-14,2
+1173,40,Organic,Multivitamin,25,2026-03-14,1
+1173,40,Organic,Multivitamin,25,2026-06-22,2
+1173,40,Organic,Multivitamin,25,2026-09-16,3
+1174,34,Instagram,Creatine,35,2026-07-06,1
+1175,21,Organic,Multivitamin,25,2026-07-14,1
+1176,20,Instagram,Multivitamin,25,2025-12-01,1
+1177,28,Ambassador,Multivitamin,25,2025-10-28,1
+1177,28,Ambassador,Multivitamin,25,2026-02-07,2
+1177,28,Ambassador,Multivitamin,25,2026-05-15,3
+1177,28,Ambassador,Multivitamin,25,2026-08-18,4
+1178,45,Organic,Whey Protein,55,2026-02-27,1
+1178,45,Organic,Whey Protein,55,2026-04-13,2
+1178,45,Organic,Whey Protein,55,2026-05-17,3
+1179,41,Instagram,Whey Protein,55,2026-02-24,1
+1180,42,TikTok,Whey Protein,55,2026-03-12,1
+1181,18,Ambassador,Whey Protein,55,2026-06-16,1
+1181,18,Ambassador,Whey Protein,55,2026-07-20,2
+1182,29,Ambassador,Multivitamin,25,2026-05-26,1
+1182,29,Ambassador,Multivitamin,25,2026-09-06,2
+1183,23,Instagram,Whey Protein,55,2026-09-17,1
+1184,37,Organic,Pre-Workout,40,2025-10-28,1
+1184,37,Organic,Pre-Workout,40,2025-12-14,2
+1184,37,Organic,Pre-Workout,40,2026-02-06,3
+1185,32,Ambassador,Creatine,35,2026-02-16,1
+1186,27,Organic,Pre-Workout,40,2026-01-24,1
+1186,27,Organic,Pre-Workout,40,2026-03-23,2
+1186,27,Organic,Pre-Workout,40,2026-05-11,3
+1186,27,Organic,Pre-Workout,40,2026-07-10,4
+1187,40,Organic,Creatine,35,2026-08-03,1
+1188,45,Organic,Multivitamin,25,2025-12-22,1
+1188,45,Organic,Multivitamin,25,2026-04-04,2
+1188,45,Organic,Multivitamin,25,2026-07-09,3
+1189,40,Ambassador,Creatine,35,2025-12-01,1
+1189,40,Ambassador,Creatine,35,2026-02-02,2
+1189,40,Ambassador,Creatine,35,2026-03-29,3
+1189,40,Ambassador,Creatine,35,2026-06-10,4
+1189,40,Ambassador,Creatine,35,2026-08-05,5
+1190,44,Organic,Creatine,35,2026-03-05,1
+1191,37,Instagram,Creatine,35,2026-02-23,1
+1191,37,Instagram,Creatine,35,2026-05-08,2
+1191,37,Instagram,Creatine,35,2026-07-10,3
+1192,38,Instagram,Whey Protein,55,2026-01-02,1
+1193,27,TikTok,Multivitamin,25,2025-12-23,1
+1193,27,TikTok,Multivitamin,25,2026-03-22,2
+1193,27,TikTok,Multivitamin,25,2026-06-17,3
+1193,27,TikTok,Multivitamin,25,2026-09-19,4
+1194,41,Ambassador,Multivitamin,25,2026-08-25,1
+1195,34,Ambassador,Creatine,35,2026-03-03,1
+1196,44,Ambassador,Multivitamin,25,2026-08-03,1
+1197,41,Ambassador,Creatine,35,2026-04-11,1
+1198,20,Organic,Pre-Workout,40,2025-10-11,1
+1199,45,Instagram,Multivitamin,25,2026-09-22,1
+1200,20,Ambassador,Multivitamin,25,2026-07-25,1
+1201,39,Ambassador,Creatine,35,2026-09-11,1
+1202,33,Instagram,Whey Protein,55,2026-08-27,1
+1203,37,Ambassador,Pre-Workout,40,2026-07-29,1
+1203,37,Ambassador,Pre-Workout,40,2026-09-16,2
+1204,21,Organic,Pre-Workout,40,2025-11-22,1
+1204,21,Organic,Pre-Workout,40,2026-01-10,2
+1205,21,Organic,Whey Protein,55,2026-03-19,1
+1205,21,Organic,Whey Protein,55,2026-04-25,2
+1205,21,Organic,Whey Protein,55,2026-06-03,3
+1206,39,Ambassador,Multivitamin,25,2025-12-10,1
+1206,39,Ambassador,Multivitamin,25,2026-03-18,2
+1206,39,Ambassador,Multivitamin,25,2026-07-01,3
+1207,44,TikTok,Multivitamin,25,2026-02-16,1
+1208,19,Ambassador,Creatine,35,2025-10-14,1
+1208,19,Ambassador,Creatine,35,2025-12-15,2
+1208,19,Ambassador,Creatine,35,2026-02-19,3
+1208,19,Ambassador,Creatine,35,2026-04-18,4
+1208,19,Ambassador,Creatine,35,2026-06-23,5
+1209,19,Ambassador,Multivitamin,25,2026-02-08,1
+1209,19,Ambassador,Multivitamin,25,2026-05-18,2
+1210,39,TikTok,Pre-Workout,40,2026-09-17,1
+1211,19,TikTok,Creatine,35,2025-12-28,1
+1211,19,TikTok,Creatine,35,2026-03-11,2
+1211,19,TikTok,Creatine,35,2026-05-11,3
+1212,44,TikTok,Pre-Workout,40,2026-07-06,1
+1213,28,Instagram,Pre-Workout,40,2026-03-08,1
+1214,26,TikTok,Pre-Workout,40,2026-02-24,1
+1215,43,Ambassador,Pre-Workout,40,2026-09-07,1
+1216,29,TikTok,Pre-Workout,40,2026-09-21,1
+1217,23,TikTok,Creatine,35,2026-04-13,1
+1217,23,TikTok,Creatine,35,2026-06-23,2
+1217,23,TikTok,Creatine,35,2026-08-20,3
+1218,32,Organic,Creatine,35,2026-06-12,1
+1218,32,Organic,Creatine,35,2026-08-20,2
+1219,37,Instagram,Whey Protein,55,2025-11-18,1
+1220,32,Ambassador,Whey Protein,55,2026-01-09,1
+1220,32,Ambassador,Whey Protein,55,2026-02-15,2
+1220,32,Ambassador,Whey Protein,55,2026-03-25,3
+1220,32,Ambassador,Whey Protein,55,2026-04-22,4
+1220,32,Ambassador,Whey Protein,55,2026-06-01,5
+1221,20,Organic,Whey Protein,55,2026-09-11,1
+1222,26,Instagram,Creatine,35,2026-04-22,1
+1222,26,Instagram,Creatine,35,2026-06-30,2
+1222,26,Instagram,Creatine,35,2026-09-09,3
+1223,21,Organic,Whey Protein,55,2026-04-08,1
+1224,31,Instagram,Multivitamin,25,2026-06-23,1
+1225,28,Organic,Multivitamin,25,2025-10-13,1
+1225,28,Organic,Multivitamin,25,2026-01-16,2
+1226,28,Organic,Creatine,35,2026-04-24,1
+1226,28,Organic,Creatine,35,2026-07-03,2
+1226,28,Organic,Creatine,35,2026-08-29,3
+1227,44,TikTok,Whey Protein,55,2026-03-25,1
+1227,44,TikTok,Whey Protein,55,2026-04-30,2
+1228,35,Instagram,Whey Protein,55,2026-07-31,1
+1229,39,Ambassador,Whey Protein,55,2025-11-19,1
+1229,39,Ambassador,Whey Protein,55,2025-12-15,2
+1229,39,Ambassador,Whey Protein,55,2026-01-18,3
+1229,39,Ambassador,Whey Protein,55,2026-03-03,4
+1229,39,Ambassador,Whey Protein,55,2026-04-06,5
+1230,21,Ambassador,Pre-Workout,40,2026-09-08,1
+1231,29,TikTok,Creatine,35,2025-10-22,1
+1231,29,TikTok,Creatine,35,2026-01-03,2
+1231,29,TikTok,Creatine,35,2026-03-06,3
+1231,29,TikTok,Creatine,35,2026-05-13,4
+1232,37,TikTok,Creatine,35,2025-11-29,1
+1232,37,TikTok,Creatine,35,2026-02-01,2
+1232,37,TikTok,Creatine,35,2026-04-07,3
+1232,37,TikTok,Creatine,35,2026-06-12,4
+1233,23,TikTok,Pre-Workout,40,2026-04-28,1
+1234,20,Organic,Pre-Workout,40,2026-05-27,1
+1235,20,TikTok,Pre-Workout,40,2025-12-17,1
+1236,28,Organic,Pre-Workout,40,2025-11-05,1
+1236,28,Organic,Pre-Workout,40,2026-01-02,2
+1236,28,Organic,Pre-Workout,40,2026-03-02,3
+1236,28,Organic,Pre-Workout,40,2026-04-13,4
+1237,22,TikTok,Pre-Workout,40,2026-08-13,1
+1238,39,TikTok,Whey Protein,55,2025-12-21,1
+1239,33,Organic,Multivitamin,25,2026-04-27,1
+1239,33,Organic,Multivitamin,25,2026-08-06,2
+1240,31,Ambassador,Whey Protein,55,2026-05-07,1
+1240,31,Ambassador,Whey Protein,55,2026-06-17,2
+1240,31,Ambassador,Whey Protein,55,2026-07-21,3
+1240,31,Ambassador,Whey Protein,55,2026-08-16,4
+1240,31,Ambassador,Whey Protein,55,2026-09-17,5
+1241,37,Organic,Whey Protein,55,2026-02-23,1
+1241,37,Organic,Whey Protein,55,2026-03-26,2
+1241,37,Organic,Whey Protein,55,2026-04-24,3
+1241,37,Organic,Whey Protein,55,2026-05-27,4
+1242,28,Ambassador,Whey Protein,55,2026-04-24,1
+1242,28,Ambassador,Whey Protein,55,2026-05-24,2
+1242,28,Ambassador,Whey Protein,55,2026-06-22,3
+1242,28,Ambassador,Whey Protein,55,2026-07-29,4
+1242,28,Ambassador,Whey Protein,55,2026-09-09,5
+1243,34,Instagram,Creatine,35,2026-04-01,1
+1243,34,Instagram,Creatine,35,2026-06-08,2
+1244,32,TikTok,Whey Protein,55,2026-08-30,1
+1245,36,Organic,Multivitamin,25,2025-12-06,1
+1246,27,Organic,Whey Protein,55,2026-06-11,1
+1246,27,Organic,Whey Protein,55,2026-07-11,2
+1246,27,Organic,Whey Protein,55,2026-08-24,3
+1247,20,Ambassador,Multivitamin,25,2025-12-19,1
+1248,31,Instagram,Multivitamin,25,2026-02-14,1
+1249,45,Organic,Creatine,35,2026-05-26,1
+1250,28,Instagram,Pre-Workout,40,2026-01-10,1
+1250,28,Instagram,Pre-Workout,40,2026-03-07,2
+1251,42,Instagram,Creatine,35,2026-01-16,1
+1251,42,Instagram,Creatine,35,2026-03-19,2
+1251,42,Instagram,Creatine,35,2026-05-16,3
+1252,26,Instagram,Pre-Workout,40,2026-06-24,1
+1252,26,Instagram,Pre-Workout,40,2026-08-23,2
+1253,42,Instagram,Multivitamin,25,2025-10-19,1
+1254,39,Organic,Creatine,35,2026-03-09,1
+1255,22,Ambassador,Multivitamin,25,2026-09-22,1
+1256,43,Ambassador,Creatine,35,2026-09-21,1
+1257,27,TikTok,Multivitamin,25,2025-10-19,1
+1258,29,TikTok,Creatine,35,2025-12-09,1
+1258,29,TikTok,Creatine,35,2026-02-21,2
+1259,32,Organic,Whey Protein,55,2025-12-28,1
+1259,32,Organic,Whey Protein,55,2026-02-01,2
+1259,32,Organic,Whey Protein,55,2026-03-17,3
+1260,34,Organic,Pre-Workout,40,2026-08-29,1
+1261,21,Organic,Creatine,35,2026-08-10,1
+1262,34,TikTok,Pre-Workout,40,2026-08-09,1
+1263,29,Instagram,Creatine,35,2026-02-04,1
+1264,31,Organic,Creatine,35,2025-11-19,1
+1265,43,TikTok,Creatine,35,2026-07-24,1
+1266,27,Organic,Creatine,35,2026-06-06,1
+1267,28,Instagram,Whey Protein,55,2026-05-04,1
+1268,29,Instagram,Creatine,35,2026-09-18,1
+1269,22,Organic,Whey Protein,55,2026-05-19,1
+1269,22,Organic,Whey Protein,55,2026-07-03,2
+1269,22,Organic,Whey Protein,55,2026-08-07,3
+1269,22,Organic,Whey Protein,55,2026-09-05,4
+1270,38,TikTok,Multivitamin,25,2025-09-25,1
+1271,29,TikTok,Creatine,35,2026-07-18,1
+1271,29,TikTok,Creatine,35,2026-09-21,2
+1272,25,Instagram,Pre-Workout,40,2026-01-10,1
+1272,25,Instagram,Pre-Workout,40,2026-02-22,2
+1272,25,Instagram,Pre-Workout,40,2026-04-19,3
+1272,25,Instagram,Pre-Workout,40,2026-06-15,4
+1273,39,TikTok,Creatine,35,2026-05-23,1
+1274,37,Instagram,Multivitamin,25,2026-08-31,1
+1275,41,Instagram,Multivitamin,25,2025-11-11,1
+1275,41,Instagram,Multivitamin,25,2026-02-11,2
+1275,41,Instagram,Multivitamin,25,2026-05-21,3
+1275,41,Instagram,Multivitamin,25,2026-09-02,4
+1276,42,Ambassador,Multivitamin,25,2025-11-04,1
+1276,42,Ambassador,Multivitamin,25,2026-02-06,2
+1276,42,Ambassador,Multivitamin,25,2026-05-17,3
+1277,29,Instagram,Multivitamin,25,2025-11-01,1
+1278,42,Ambassador,Multivitamin,25,2026-04-12,1
+1278,42,Ambassador,Multivitamin,25,2026-07-11,2
+1279,45,Instagram,Creatine,35,2025-12-31,1
+1279,45,Instagram,Creatine,35,2026-03-07,2
+1279,45,Instagram,Creatine,35,2026-05-18,3
+1279,45,Instagram,Creatine,35,2026-07-15,4
+1279,45,Instagram,Creatine,35,2026-09-24,5
+1280,27,TikTok,Whey Protein,55,2026-05-01,1
+1281,32,Ambassador,Pre-Workout,40,2026-06-11,1
+1282,25,TikTok,Multivitamin,25,2025-12-06,1
+1283,31,TikTok,Whey Protein,55,2026-05-12,1
+1284,25,Ambassador,Multivitamin,25,2025-12-28,1
+1285,25,Ambassador,Whey Protein,55,2026-03-20,1
+1285,25,Ambassador,Whey Protein,55,2026-05-04,2
+1286,43,Ambassador,Pre-Workout,40,2026-08-19,1
+1287,42,Instagram,Multivitamin,25,2026-07-28,1
+1288,20,TikTok,Whey Protein,55,2025-10-26,1
+1289,35,Instagram,Multivitamin,25,2026-02-24,1
+1289,35,Instagram,Multivitamin,25,2026-05-27,2
+1289,35,Instagram,Multivitamin,25,2026-08-29,3
+1290,25,TikTok,Multivitamin,25,2026-01-01,1
+1291,20,Organic,Whey Protein,55,2025-09-24,1
+1292,37,Organic,Whey Protein,55,2026-07-01,1
+1292,37,Organic,Whey Protein,55,2026-07-30,2
+1292,37,Organic,Whey Protein,55,2026-09-02,3
+1293,18,Organic,Creatine,35,2026-05-13,1
+1293,18,Organic,Creatine,35,2026-07-12,2
+1293,18,Organic,Creatine,35,2026-09-07,3
+1294,20,Ambassador,Whey Protein,55,2025-12-27,1
+1294,20,Ambassador,Whey Protein,55,2026-01-22,2
+1294,20,Ambassador,Whey Protein,55,2026-03-08,3
+1294,20,Ambassador,Whey Protein,55,2026-04-14,4
+1294,20,Ambassador,Whey Protein,55,2026-05-20,5
+1295,41,Ambassador,Whey Protein,55,2026-06-20,1
+1295,41,Ambassador,Whey Protein,55,2026-07-26,2
+1296,41,Instagram,Whey Protein,55,2026-04-12,1
+1297,22,Ambassador,Whey Protein,55,2026-02-26,1
+1297,22,Ambassador,Whey Protein,55,2026-04-12,2
+1297,22,Ambassador,Whey Protein,55,2026-05-12,3
+1297,22,Ambassador,Whey Protein,55,2026-06-20,4
+1298,38,Organic,Pre-Workout,40,2025-09-26,1
+1299,40,TikTok,Multivitamin,25,2025-10-20,1
+1299,40,TikTok,Multivitamin,25,2026-01-14,2
+1299,40,TikTok,Multivitamin,25,2026-04-15,3
+1300,28,TikTok,Creatine,35,2026-08-11,1
+1301,26,Organic,Whey Protein,55,2026-08-18,1
+1302,27,Instagram,Creatine,35,2026-04-10,1
+1303,45,TikTok,Creatine,35,2026-07-24,1
+1304,31,Ambassador,Multivitamin,25,2026-04-23,1
+1305,28,Organic,Pre-Workout,40,2025-11-16,1
+1305,28,Organic,Pre-Workout,40,2026-01-06,2
+1305,28,Organic,Pre-Workout,40,2026-03-03,3
+1305,28,Organic,Pre-Workout,40,2026-04-20,4
+1305,28,Organic,Pre-Workout,40,2026-06-01,5
+1306,20,Organic,Multivitamin,25,2025-11-08,1
+1306,20,Organic,Multivitamin,25,2026-02-18,2
+1306,20,Organic,Multivitamin,25,2026-05-23,3
+1307,21,Ambassador,Whey Protein,55,2026-01-13,1
+1307,21,Ambassador,Whey Protein,55,2026-02-16,2
+1307,21,Ambassador,Whey Protein,55,2026-03-27,3
+1307,21,Ambassador,Whey Protein,55,2026-05-10,4
+1308,23,Organic,Multivitamin,25,2026-08-17,1
+1309,26,Organic,Whey Protein,55,2026-07-10,1
+1309,26,Organic,Whey Protein,55,2026-08-15,2
+1310,18,Instagram,Pre-Workout,40,2026-08-03,1
+1311,19,Organic,Pre-Workout,40,2026-08-17,1
+1312,36,Organic,Whey Protein,55,2025-12-08,1
+1312,36,Organic,Whey Protein,55,2026-01-13,2
+1312,36,Organic,Whey Protein,55,2026-02-18,3
+1312,36,Organic,Whey Protein,55,2026-03-29,4
+1312,36,Organic,Whey Protein,55,2026-04-25,5
+1313,34,Instagram,Creatine,35,2025-12-23,1
+1313,34,Instagram,Creatine,35,2026-02-23,2
+1313,34,Instagram,Creatine,35,2026-04-22,3
+1313,34,Instagram,Creatine,35,2026-06-16,4
+1314,33,Instagram,Multivitamin,25,2025-10-30,1
+1315,26,TikTok,Creatine,35,2026-07-04,1
+1316,37,Instagram,Creatine,35,2026-08-11,1
+1317,24,Organic,Whey Protein,55,2026-02-18,1
+1317,24,Organic,Whey Protein,55,2026-03-29,2
+1318,40,Instagram,Multivitamin,25,2026-05-07,1
+1319,39,Ambassador,Creatine,35,2025-11-18,1
+1320,27,Ambassador,Pre-Workout,40,2026-08-28,1
+1321,43,Instagram,Creatine,35,2026-08-04,1
+1322,24,TikTok,Pre-Workout,40,2026-09-14,1
+1323,35,Ambassador,Creatine,35,2026-07-15,1
+1324,20,TikTok,Creatine,35,2026-08-10,1
+1325,34,Organic,Multivitamin,25,2025-10-02,1
+1326,22,TikTok,Creatine,35,2026-06-18,1
+1327,32,Organic,Creatine,35,2026-01-22,1
+1327,32,Organic,Creatine,35,2026-03-22,2
+1327,32,Organic,Creatine,35,2026-05-29,3
+1328,44,TikTok,Whey Protein,55,2026-08-28,1
+1329,23,Ambassador,Pre-Workout,40,2026-07-12,1
+1329,23,Ambassador,Pre-Workout,40,2026-09-01,2
+1330,45,Ambassador,Whey Protein,55,2026-08-04,1
+1330,45,Ambassador,Whey Protein,55,2026-09-02,2
+1331,37,Ambassador,Whey Protein,55,2026-07-15,1
+1331,37,Ambassador,Whey Protein,55,2026-08-27,2
+1332,23,Instagram,Creatine,35,2025-12-29,1
+1333,44,TikTok,Whey Protein,55,2026-07-07,1
+1333,44,TikTok,Whey Protein,55,2026-08-21,2
+1333,44,TikTok,Whey Protein,55,2026-09-21,3
+1334,37,Organic,Whey Protein,55,2025-11-01,1
+1334,37,Organic,Whey Protein,55,2025-12-16,2
+1334,37,Organic,Whey Protein,55,2026-01-19,3
+1334,37,Organic,Whey Protein,55,2026-02-28,4
+1335,43,Instagram,Multivitamin,25,2026-08-07,1
+1336,32,Instagram,Multivitamin,25,2026-08-02,1
+1337,28,Instagram,Pre-Workout,40,2025-12-13,1
+1337,28,Instagram,Pre-Workout,40,2026-02-02,2
+1337,28,Instagram,Pre-Workout,40,2026-03-26,3
+1337,28,Instagram,Pre-Workout,40,2026-05-09,4
+1338,34,Ambassador,Whey Protein,55,2026-07-18,1
+1338,34,Ambassador,Whey Protein,55,2026-08-15,2
+1338,34,Ambassador,Whey Protein,55,2026-09-17,3
+1339,22,Instagram,Whey Protein,55,2026-03-10,1
+1339,22,Instagram,Whey Protein,55,2026-04-23,2
+1339,22,Instagram,Whey Protein,55,2026-05-31,3
+1339,22,Instagram,Whey Protein,55,2026-07-02,4
+1339,22,Instagram,Whey Protein,55,2026-08-01,5
+1340,36,Ambassador,Creatine,35,2026-01-12,1
+1340,36,Ambassador,Creatine,35,2026-03-23,2
+1340,36,Ambassador,Creatine,35,2026-06-02,3
+1341,33,Organic,Creatine,35,2026-07-10,1
+1341,33,Organic,Creatine,35,2026-09-15,2
+1342,25,Organic,Pre-Workout,40,2025-12-15,1
+1342,25,Organic,Pre-Workout,40,2026-01-25,2
+1343,33,Ambassador,Multivitamin,25,2025-10-01,1
+1343,33,Ambassador,Multivitamin,25,2025-12-28,2
+1344,22,Organic,Creatine,35,2025-12-02,1
+1345,29,Organic,Whey Protein,55,2026-01-20,1
+1345,29,Organic,Whey Protein,55,2026-02-25,2
+1345,29,Organic,Whey Protein,55,2026-04-08,3
+1346,20,Ambassador,Multivitamin,25,2026-08-04,1
+1347,22,TikTok,Whey Protein,55,2026-09-10,1
+1348,35,Ambassador,Creatine,35,2026-01-02,1
+1349,37,Instagram,Multivitamin,25,2026-05-15,1
+1350,19,TikTok,Pre-Workout,40,2026-02-15,1
+1351,34,Organic,Multivitamin,25,2026-09-16,1
+1352,23,Ambassador,Multivitamin,25,2026-04-06,1
+1353,36,Ambassador,Creatine,35,2026-08-31,1
+1354,33,Ambassador,Whey Protein,55,2025-11-04,1
+1354,33,Ambassador,Whey Protein,55,2025-12-12,2
+1355,43,Ambassador,Whey Protein,55,2026-09-12,1
+1356,41,Instagram,Whey Protein,55,2025-11-27,1
+1357,34,Instagram,Multivitamin,25,2026-09-09,1
+1358,24,TikTok,Whey Protein,55,2025-12-28,1
+1359,22,Organic,Multivitamin,25,2025-11-01,1
+1360,34,Organic,Multivitamin,25,2026-02-28,1
+1361,40,TikTok,Pre-Workout,40,2026-06-15,1
+1362,39,Ambassador,Multivitamin,25,2026-01-15,1
+1362,39,Ambassador,Multivitamin,25,2026-04-15,2
+1362,39,Ambassador,Multivitamin,25,2026-07-23,3
+1363,35,Ambassador,Creatine,35,2026-05-02,1
+1364,37,Ambassador,Multivitamin,25,2026-03-28,1
+1364,37,Ambassador,Multivitamin,25,2026-06-29,2
+1365,25,Ambassador,Creatine,35,2026-02-10,1
+1366,40,Instagram,Multivitamin,25,2026-04-21,1
+1366,40,Instagram,Multivitamin,25,2026-08-01,2
+1367,21,Ambassador,Multivitamin,25,2025-12-24,1
+1368,44,Organic,Creatine,35,2026-06-08,1
+1369,27,Instagram,Whey Protein,55,2025-09-23,1
+1369,27,Instagram,Whey Protein,55,2025-10-29,2
+1370,38,Organic,Creatine,35,2026-08-26,1
+1371,24,Instagram,Creatine,35,2026-04-07,1
+1372,22,Ambassador,Whey Protein,55,2026-06-12,1
+1372,22,Ambassador,Whey Protein,55,2026-07-14,2
+1372,22,Ambassador,Whey Protein,55,2026-08-09,3
+1373,38,Instagram,Pre-Workout,40,2026-06-20,1
+1373,38,Instagram,Pre-Workout,40,2026-08-09,2
+1374,39,TikTok,Pre-Workout,40,2026-05-25,1
+1374,39,TikTok,Pre-Workout,40,2026-07-17,2
+1374,39,TikTok,Pre-Workout,40,2026-09-15,3
+1375,33,Organic,Pre-Workout,40,2026-02-02,1
+1376,28,Ambassador,Creatine,35,2025-10-18,1
+1376,28,Ambassador,Creatine,35,2026-01-01,2
+1377,35,Instagram,Whey Protein,55,2026-05-23,1
+1378,31,Instagram,Pre-Workout,40,2026-01-21,1
+1379,44,TikTok,Multivitamin,25,2026-01-15,1
+1380,41,Instagram,Creatine,35,2026-07-29,1
+1381,27,TikTok,Whey Protein,55,2026-06-12,1
+1382,27,Ambassador,Multivitamin,25,2026-01-10,1
+1383,22,Organic,Multivitamin,25,2026-01-13,1
+1383,22,Organic,Multivitamin,25,2026-04-18,2
+1384,41,Instagram,Multivitamin,25,2026-02-19,1
+1385,18,Instagram,Creatine,35,2026-02-16,1
+1386,23,Instagram,Multivitamin,25,2026-01-08,1
+1387,20,Ambassador,Multivitamin,25,2025-11-08,1
+1388,22,Instagram,Multivitamin,25,2026-02-23,1
+1388,22,Instagram,Multivitamin,25,2026-05-19,2
+1388,22,Instagram,Multivitamin,25,2026-08-20,3
+1389,25,Organic,Multivitamin,25,2026-09-01,1
+1390,27,Ambassador,Whey Protein,55,2026-05-28,1
+1390,27,Ambassador,Whey Protein,55,2026-06-29,2
+1390,27,Ambassador,Whey Protein,55,2026-07-25,3
+1390,27,Ambassador,Whey Protein,55,2026-08-22,4
+1391,27,Organic,Pre-Workout,40,2026-08-18,1
+1392,29,Ambassador,Pre-Workout,40,2026-05-05,1
+1392,29,Ambassador,Pre-Workout,40,2026-06-29,2
+1392,29,Ambassador,Pre-Workout,40,2026-08-12,3
+1393,41,Organic,Creatine,35,2026-01-10,1
+1393,41,Organic,Creatine,35,2026-03-23,2
+1393,41,Organic,Creatine,35,2026-05-23,3
+1393,41,Organic,Creatine,35,2026-07-24,4
+1394,34,TikTok,Multivitamin,25,2026-04-10,1
+1395,20,Ambassador,Whey Protein,55,2025-09-23,1
+1395,20,Ambassador,Whey Protein,55,2025-11-05,2
+1395,20,Ambassador,Whey Protein,55,2025-12-17,3
+1396,23,Instagram,Creatine,35,2026-01-05,1
+1397,21,Organic,Pre-Workout,40,2026-02-26,1
+1398,20,Organic,Multivitamin,25,2026-04-22,1
+1399,22,Organic,Multivitamin,25,2026-05-19,1
+1399,22,Organic,Multivitamin,25,2026-08-29,2
+1400,39,Organic,Creatine,35,2026-03-11,1
+1401,26,Organic,Whey Protein,55,2026-03-03,1
+1402,19,TikTok,Multivitamin,25,2025-12-10,1
+1403,35,TikTok,Whey Protein,55,2026-03-14,1
+1404,33,TikTok,Whey Protein,55,2026-08-17,1
+1405,42,Instagram,Pre-Workout,40,2026-07-10,1
+1406,29,Organic,Multivitamin,25,2025-11-23,1
+1406,29,Organic,Multivitamin,25,2026-02-28,2
+1406,29,Organic,Multivitamin,25,2026-05-26,3
+1406,29,Organic,Multivitamin,25,2026-09-05,4
+1407,21,Ambassador,Pre-Workout,40,2025-10-23,1
+1408,34,Organic,Pre-Workout,40,2026-03-30,1
+1409,44,Instagram,Whey Protein,55,2026-05-12,1
+1410,32,Ambassador,Multivitamin,25,2026-01-23,1
+1410,32,Ambassador,Multivitamin,25,2026-04-25,2
+1410,32,Ambassador,Multivitamin,25,2026-08-02,3
+1411,22,Ambassador,Creatine,35,2026-07-18,1
+1411,22,Ambassador,Creatine,35,2026-09-12,2
+1412,37,Organic,Whey Protein,55,2026-06-24,1
+1412,37,Organic,Whey Protein,55,2026-07-22,2
+1413,32,TikTok,Whey Protein,55,2026-05-26,1
+1413,32,TikTok,Whey Protein,55,2026-07-02,2
+1414,25,Organic,Pre-Workout,40,2025-12-13,1
+1415,22,TikTok,Creatine,35,2025-12-04,1
+1415,22,TikTok,Creatine,35,2026-02-15,2
+1415,22,TikTok,Creatine,35,2026-04-30,3
+1415,22,TikTok,Creatine,35,2026-07-04,4
+1416,27,Instagram,Pre-Workout,40,2025-10-01,1
+1417,31,Instagram,Creatine,35,2025-12-21,1
+1417,31,Instagram,Creatine,35,2026-03-06,2
+1417,31,Instagram,Creatine,35,2026-05-13,3
+1418,19,Organic,Creatine,35,2026-03-15,1
+1419,43,Organic,Creatine,35,2026-07-30,1
+1420,22,Organic,Creatine,35,2025-10-19,1
+1420,22,Organic,Creatine,35,2025-12-20,2
+1420,22,Organic,Creatine,35,2026-02-20,3
+1420,22,Organic,Creatine,35,2026-04-25,4
+1420,22,Organic,Creatine,35,2026-06-23,5
+1421,19,Organic,Multivitamin,25,2026-02-21,1
+1422,30,Instagram,Pre-Workout,40,2026-05-10,1
+1422,30,Instagram,Pre-Workout,40,2026-07-09,2
+1422,30,Instagram,Pre-Workout,40,2026-08-20,3
+1423,20,Ambassador,Pre-Workout,40,2025-12-02,1
+1423,20,Ambassador,Pre-Workout,40,2026-01-30,2
+1423,20,Ambassador,Pre-Workout,40,2026-03-30,3
+1423,20,Ambassador,Pre-Workout,40,2026-05-10,4
+1423,20,Ambassador,Pre-Workout,40,2026-06-21,5
+1424,43,Instagram,Pre-Workout,40,2026-06-04,1
+1425,27,Ambassador,Whey Protein,55,2026-03-22,1
+1425,27,Ambassador,Whey Protein,55,2026-04-19,2
+1425,27,Ambassador,Whey Protein,55,2026-05-29,3
+1426,40,Instagram,Pre-Workout,40,2025-12-21,1
+1426,40,Instagram,Pre-Workout,40,2026-02-16,2
+1426,40,Instagram,Pre-Workout,40,2026-04-07,3
+1427,30,Ambassador,Multivitamin,25,2026-05-20,1
+1427,30,Ambassador,Multivitamin,25,2026-08-22,2
+1428,34,Ambassador,Multivitamin,25,2025-09-25,1
+1428,34,Ambassador,Multivitamin,25,2025-12-29,2
+1428,34,Ambassador,Multivitamin,25,2026-03-30,3
+1428,34,Ambassador,Multivitamin,25,2026-07-04,4
+1429,19,Organic,Pre-Workout,40,2026-06-24,1
+1430,26,TikTok,Multivitamin,25,2026-07-01,1
+1431,28,Instagram,Pre-Workout,40,2025-10-31,1
+1431,28,Instagram,Pre-Workout,40,2025-12-25,2
+1431,28,Instagram,Pre-Workout,40,2026-02-20,3
+1432,26,Ambassador,Multivitamin,25,2026-02-25,1
+1433,32,Organic,Pre-Workout,40,2025-11-26,1
+1434,23,Ambassador,Pre-Workout,40,2026-09-07,1
+1435,23,Organic,Whey Protein,55,2026-03-31,1
+1435,23,Organic,Whey Protein,55,2026-04-26,2
+1436,31,TikTok,Pre-Workout,40,2025-10-11,1
+1437,20,Instagram,Pre-Workout,40,2025-12-22,1
+1437,20,Instagram,Pre-Workout,40,2026-02-11,2
+1437,20,Instagram,Pre-Workout,40,2026-03-24,3
+1437,20,Instagram,Pre-Workout,40,2026-05-22,4
+1437,20,Instagram,Pre-Workout,40,2026-07-21,5
+1438,39,Organic,Multivitamin,25,2026-07-29,1
+1439,34,TikTok,Creatine,35,2026-03-08,1
+1440,18,Ambassador,Multivitamin,25,2026-07-12,1
+1441,21,Instagram,Whey Protein,55,2026-05-24,1
+1442,24,Instagram,Creatine,35,2026-09-18,1
+1443,43,Ambassador,Multivitamin,25,2026-04-28,1
+1443,43,Ambassador,Multivitamin,25,2026-08-05,2
+1444,40,Instagram,Pre-Workout,40,2026-09-04,1
+1445,20,TikTok,Multivitamin,25,2026-08-14,1
+1446,19,Organic,Whey Protein,55,2026-05-04,1
+1447,33,TikTok,Multivitamin,25,2026-06-12,1
+1448,36,Ambassador,Whey Protein,55,2026-03-26,1
+1449,25,TikTok,Pre-Workout,40,2026-07-23,1
+1450,26,Organic,Whey Protein,55,2026-04-10,1
+1451,35,Ambassador,Whey Protein,55,2026-08-16,1
+1451,35,Ambassador,Whey Protein,55,2026-09-10,2
+1452,42,Instagram,Multivitamin,25,2026-06-21,1
+1453,23,Ambassador,Pre-Workout,40,2026-03-15,1
+1453,23,Ambassador,Pre-Workout,40,2026-05-11,2
+1453,23,Ambassador,Pre-Workout,40,2026-06-30,3
+1453,23,Ambassador,Pre-Workout,40,2026-08-21,4
+1454,34,TikTok,Creatine,35,2025-12-26,1
+1454,34,TikTok,Creatine,35,2026-02-26,2
+1454,34,TikTok,Creatine,35,2026-04-24,3
+1454,34,TikTok,Creatine,35,2026-06-28,4
+1454,34,TikTok,Creatine,35,2026-09-10,5
+1455,42,Organic,Creatine,35,2025-12-22,1
+1455,42,Organic,Creatine,35,2026-03-01,2
+1455,42,Organic,Creatine,35,2026-05-10,3
+1455,42,Organic,Creatine,35,2026-07-11,4
+1456,35,Ambassador,Multivitamin,25,2026-05-13,1
+1456,35,Ambassador,Multivitamin,25,2026-08-08,2
+1457,43,Ambassador,Pre-Workout,40,2026-06-29,1
+1458,26,TikTok,Pre-Workout,40,2026-04-01,1
+1459,41,Instagram,Multivitamin,25,2026-05-09,1
+1459,41,Instagram,Multivitamin,25,2026-08-04,2
+1460,27,TikTok,Multivitamin,25,2026-01-01,1
+1461,21,Ambassador,Pre-Workout,40,2025-10-21,1
+1461,21,Ambassador,Pre-Workout,40,2025-12-14,2
+1461,21,Ambassador,Pre-Workout,40,2026-02-09,3
+1461,21,Ambassador,Pre-Workout,40,2026-04-07,4
+1461,21,Ambassador,Pre-Workout,40,2026-06-02,5
+1462,21,Organic,Whey Protein,55,2026-01-05,1
+1462,21,Organic,Whey Protein,55,2026-02-18,2
+1463,45,Ambassador,Multivitamin,25,2025-12-31,1
+1463,45,Ambassador,Multivitamin,25,2026-04-07,2
+1463,45,Ambassador,Multivitamin,25,2026-07-03,3
+1464,36,Instagram,Pre-Workout,40,2026-01-17,1
+1465,22,Instagram,Creatine,35,2026-04-08,1
+1465,22,Instagram,Creatine,35,2026-06-06,2
+1465,22,Instagram,Creatine,35,2026-08-02,3
+1466,26,Organic,Multivitamin,25,2025-11-12,1
+1466,26,Organic,Multivitamin,25,2026-02-16,2
+1467,25,Ambassador,Multivitamin,25,2025-12-16,1
+1467,25,Ambassador,Multivitamin,25,2026-03-25,2
+1467,25,Ambassador,Multivitamin,25,2026-06-21,3
+1468,27,Instagram,Whey Protein,55,2026-06-03,1
+1469,44,Ambassador,Multivitamin,25,2026-06-07,1
+1470,32,Ambassador,Creatine,35,2025-10-16,1
+1470,32,Ambassador,Creatine,35,2025-12-19,2
+1470,32,Ambassador,Creatine,35,2026-02-22,3
+1471,33,Instagram,Creatine,35,2026-02-18,1
+1471,33,Instagram,Creatine,35,2026-04-24,2
+1471,33,Instagram,Creatine,35,2026-06-27,3
+1471,33,Instagram,Creatine,35,2026-09-10,4
+1472,28,Instagram,Multivitamin,25,2026-04-09,1
+1472,28,Instagram,Multivitamin,25,2026-07-14,2
+1473,36,Instagram,Pre-Workout,40,2026-02-21,1
+1474,41,TikTok,Multivitamin,25,2025-12-07,1
+1475,32,Instagram,Creatine,35,2026-02-23,1
+1476,44,TikTok,Multivitamin,25,2026-08-19,1
+1477,38,Instagram,Creatine,35,2026-04-24,1
+1477,38,Instagram,Creatine,35,2026-07-01,2
+1477,38,Instagram,Creatine,35,2026-09-06,3
+1478,32,TikTok,Multivitamin,25,2026-06-03,1
+1479,35,Organic,Whey Protein,55,2026-08-01,1
+1480,40,Ambassador,Whey Protein,55,2026-06-29,1
+1480,40,Ambassador,Whey Protein,55,2026-08-04,2
+1480,40,Ambassador,Whey Protein,55,2026-09-03,3
+1481,36,TikTok,Multivitamin,25,2026-02-08,1
+1482,43,Ambassador,Multivitamin,25,2025-09-25,1
+1482,43,Ambassador,Multivitamin,25,2025-12-27,2
+1483,34,Instagram,Pre-Workout,40,2026-01-29,1
+1484,32,Organic,Pre-Workout,40,2026-06-25,1
+1484,32,Organic,Pre-Workout,40,2026-08-19,2
+1485,27,TikTok,Multivitamin,25,2026-07-31,1
+1486,21,TikTok,Pre-Workout,40,2026-09-06,1
+1487,32,Ambassador,Pre-Workout,40,2026-02-22,1
+1487,32,Ambassador,Pre-Workout,40,2026-04-18,2
+1487,32,Ambassador,Pre-Workout,40,2026-05-31,3
+1487,32,Ambassador,Pre-Workout,40,2026-07-24,4
+1488,28,Organic,Whey Protein,55,2026-06-22,1
+1488,28,Organic,Whey Protein,55,2026-07-17,2
+1489,38,Ambassador,Whey Protein,55,2026-04-10,1
+1490,41,Instagram,Pre-Workout,40,2026-05-01,1
+1491,28,Instagram,Multivitamin,25,2025-12-12,1
+1492,43,Instagram,Multivitamin,25,2025-12-12,1
+1493,38,Instagram,Multivitamin,25,2026-03-01,1
+1493,38,Instagram,Multivitamin,25,2026-06-08,2
+1493,38,Instagram,Multivitamin,25,2026-09-19,3
+1494,30,Organic,Whey Protein,55,2025-10-03,1
+1495,26,Instagram,Whey Protein,55,2026-01-23,1
+1496,29,Instagram,Creatine,35,2026-05-28,1
+1496,29,Instagram,Creatine,35,2026-07-30,2
+1497,34,Organic,Creatine,35,2026-02-17,1
+1497,34,Organic,Creatine,35,2026-05-01,2
+1497,34,Organic,Creatine,35,2026-06-28,3
+1497,34,Organic,Creatine,35,2026-09-02,4
+1498,37,Organic,Pre-Workout,40,2025-11-22,1
+1499,37,Ambassador,Whey Protein,55,2026-03-12,1
+1500,21,Ambassador,Pre-Workout,40,2025-11-08,1
+1500,21,Ambassador,Pre-Workout,40,2025-12-29,2
+1500,21,Ambassador,Pre-Workout,40,2026-02-11,3
+1501,31,Organic,Pre-Workout,40,2026-05-08,1
+1501,31,Organic,Pre-Workout,40,2026-06-22,2
+1501,31,Organic,Pre-Workout,40,2026-08-16,3
+1502,35,Instagram,Pre-Workout,40,2025-10-02,1
+1503,23,Instagram,Creatine,35,2026-02-13,1
+1504,45,TikTok,Creatine,35,2026-04-17,1
+1505,22,Organic,Pre-Workout,40,2025-10-02,1
+1506,31,Organic,Multivitamin,25,2026-05-15,1
+1506,31,Organic,Multivitamin,25,2026-08-23,2
+1507,36,TikTok,Whey Protein,55,2025-11-11,1
+1508,27,Instagram,Whey Protein,55,2026-03-10,1
+1508,27,Instagram,Whey Protein,55,2026-04-09,2
+1508,27,Instagram,Whey Protein,55,2026-05-18,3
+1508,27,Instagram,Whey Protein,55,2026-06-30,4
+1509,35,Organic,Whey Protein,55,2025-10-11,1
+1509,35,Organic,Whey Protein,55,2025-11-22,2
+1509,35,Organic,Whey Protein,55,2025-12-28,3
+1509,35,Organic,Whey Protein,55,2026-02-08,4
+1510,42,TikTok,Multivitamin,25,2026-02-08,1
+1511,21,Organic,Pre-Workout,40,2025-12-09,1
+1511,21,Organic,Pre-Workout,40,2026-02-01,2
+1512,29,Ambassador,Whey Protein,55,2026-01-20,1
+1512,29,Ambassador,Whey Protein,55,2026-02-21,2
+1513,43,Instagram,Creatine,35,2026-06-27,1
+1514,23,Organic,Pre-Workout,40,2026-02-08,1
+1515,43,Instagram,Whey Protein,55,2026-06-24,1
+1516,37,Ambassador,Pre-Workout,40,2026-07-23,1
+1516,37,Ambassador,Pre-Workout,40,2026-09-10,2
+1517,45,Ambassador,Whey Protein,55,2025-12-24,1
+1517,45,Ambassador,Whey Protein,55,2026-01-19,2
+1517,45,Ambassador,Whey Protein,55,2026-02-21,3
+1517,45,Ambassador,Whey Protein,55,2026-04-07,4
+1517,45,Ambassador,Whey Protein,55,2026-05-06,5
+1518,25,Instagram,Pre-Workout,40,2025-10-22,1
+1519,42,Instagram,Multivitamin,25,2025-09-30,1
+1520,38,Ambassador,Multivitamin,25,2026-04-07,1
+1520,38,Ambassador,Multivitamin,25,2026-07-21,2
+1521,30,TikTok,Creatine,35,2026-09-22,1
+1522,32,Ambassador,Multivitamin,25,2026-01-28,1
+1522,32,Ambassador,Multivitamin,25,2026-04-25,2
+1523,38,Organic,Creatine,35,2026-05-18,1
+1524,24,Organic,Multivitamin,25,2026-07-05,1
+1525,26,Organic,Creatine,35,2026-05-18,1
+1526,35,Ambassador,Pre-Workout,40,2026-06-25,1
+1526,35,Ambassador,Pre-Workout,40,2026-08-14,2
+1526,35,Ambassador,Pre-Workout,40,2026-09-24,3
+1527,38,TikTok,Multivitamin,25,2026-09-04,1
+1528,18,Organic,Multivitamin,25,2025-12-04,1
+1528,18,Organic,Multivitamin,25,2026-03-19,2
+1528,18,Organic,Multivitamin,25,2026-06-21,3
+1529,45,Instagram,Creatine,35,2025-09-30,1
+1529,45,Instagram,Creatine,35,2025-12-02,2
+1529,45,Instagram,Creatine,35,2026-01-28,3
+1529,45,Instagram,Creatine,35,2026-04-04,4
+1530,19,Instagram,Multivitamin,25,2025-11-17,1
+1531,31,Instagram,Whey Protein,55,2025-11-08,1
+1532,24,TikTok,Multivitamin,25,2026-05-25,1
+1532,24,TikTok,Multivitamin,25,2026-09-03,2
+1533,18,TikTok,Creatine,35,2026-04-16,1
+1534,40,Organic,Pre-Workout,40,2025-12-11,1
+1534,40,Organic,Pre-Workout,40,2026-02-01,2
+1534,40,Organic,Pre-Workout,40,2026-03-15,3
+1535,21,TikTok,Creatine,35,2026-06-05,1
+1536,22,Ambassador,Multivitamin,25,2026-06-29,1
+1537,38,Instagram,Pre-Workout,40,2025-11-23,1
+1537,38,Instagram,Pre-Workout,40,2026-01-21,2
+1538,32,Instagram,Creatine,35,2026-05-02,1
+1539,31,Instagram,Multivitamin,25,2026-06-22,1
+1540,21,TikTok,Pre-Workout,40,2025-11-03,1
+1541,29,Organic,Multivitamin,25,2026-07-19,1
+1542,38,Ambassador,Whey Protein,55,2026-09-10,1
+1543,24,Ambassador,Pre-Workout,40,2025-11-01,1
+1544,38,Ambassador,Whey Protein,55,2025-10-02,1
+1545,33,Instagram,Multivitamin,25,2026-01-14,1
+1545,33,Instagram,Multivitamin,25,2026-04-29,2
+1545,33,Instagram,Multivitamin,25,2026-08-11,3
+1546,29,TikTok,Creatine,35,2026-05-28,1
+1546,29,TikTok,Creatine,35,2026-08-02,2
+1547,42,Instagram,Multivitamin,25,2026-09-07,1
+1548,18,TikTok,Whey Protein,55,2026-02-14,1
+1548,18,TikTok,Whey Protein,55,2026-03-12,2
+1548,18,TikTok,Whey Protein,55,2026-04-07,3
+1549,34,Organic,Creatine,35,2026-06-10,1
+1549,34,Organic,Creatine,35,2026-08-17,2
+1550,38,TikTok,Pre-Workout,40,2025-10-20,1
+1551,20,Ambassador,Pre-Workout,40,2026-06-02,1
+1552,35,Instagram,Creatine,35,2026-05-09,1
+1552,35,Instagram,Creatine,35,2026-07-12,2
+1553,41,Organic,Pre-Workout,40,2025-10-30,1
+1553,41,Organic,Pre-Workout,40,2025-12-22,2
+1554,32,TikTok,Whey Protein,55,2026-07-01,1
+1555,21,Instagram,Whey Protein,55,2026-07-30,1
+1556,23,TikTok,Multivitamin,25,2026-04-30,1
+1557,23,Ambassador,Creatine,35,2025-11-06,1
+1557,23,Ambassador,Creatine,35,2026-01-03,2
+1557,23,Ambassador,Creatine,35,2026-02-27,3
+1557,23,Ambassador,Creatine,35,2026-05-03,4
+1558,26,Organic,Whey Protein,55,2026-09-17,1
+1559,34,Organic,Creatine,35,2026-07-05,1
+1559,34,Organic,Creatine,35,2026-09-09,2
+1560,42,Ambassador,Whey Protein,55,2026-01-27,1
+1561,25,TikTok,Whey Protein,55,2026-02-26,1
+1561,25,TikTok,Whey Protein,55,2026-03-30,2
+1562,33,TikTok,Creatine,35,2026-02-05,1
+1563,23,Instagram,Whey Protein,55,2026-03-26,1
+1564,25,Organic,Creatine,35,2026-01-25,1
+1564,25,Organic,Creatine,35,2026-03-29,2
+1564,25,Organic,Creatine,35,2026-05-25,3
+1564,25,Organic,Creatine,35,2026-08-06,4
+1565,21,Ambassador,Whey Protein,55,2026-07-30,1
+1565,21,Ambassador,Whey Protein,55,2026-09-05,2
+1566,32,TikTok,Creatine,35,2026-07-20,1
+1567,28,Ambassador,Whey Protein,55,2025-10-31,1
+1567,28,Ambassador,Whey Protein,55,2025-12-06,2
+1568,27,Instagram,Creatine,35,2026-09-08,1
+1569,32,Instagram,Creatine,35,2026-05-12,1
+1570,42,Organic,Pre-Workout,40,2026-07-22,1
+1571,22,Instagram,Whey Protein,55,2026-06-08,1
+1572,25,TikTok,Creatine,35,2026-02-28,1
+1573,28,TikTok,Whey Protein,55,2026-06-17,1
+1574,45,Organic,Creatine,35,2026-09-10,1
+1575,19,Organic,Pre-Workout,40,2025-12-30,1
+1576,19,TikTok,Pre-Workout,40,2026-07-14,1
+1577,40,Organic,Creatine,35,2026-04-07,1
+1577,40,Organic,Creatine,35,2026-06-19,2
+1578,34,TikTok,Pre-Workout,40,2026-03-18,1
+1579,20,Organic,Whey Protein,55,2026-02-28,1
+1579,20,Organic,Whey Protein,55,2026-04-01,2
+1579,20,Organic,Whey Protein,55,2026-05-05,3
+1580,45,Ambassador,Creatine,35,2026-06-16,1
+1581,40,Organic,Creatine,35,2025-12-29,1
+1581,40,Organic,Creatine,35,2026-03-01,2
+1581,40,Organic,Creatine,35,2026-04-27,3
+1581,40,Organic,Creatine,35,2026-06-27,4
+1582,42,Instagram,Whey Protein,55,2026-07-30,1
+1582,42,Instagram,Whey Protein,55,2026-09-07,2
+1583,31,Ambassador,Whey Protein,55,2026-07-23,1
+1583,31,Ambassador,Whey Protein,55,2026-08-31,2
+1584,26,Organic,Whey Protein,55,2025-10-24,1
+1584,26,Organic,Whey Protein,55,2025-12-07,2
+1584,26,Organic,Whey Protein,55,2026-01-02,3
+1584,26,Organic,Whey Protein,55,2026-02-02,4
+1585,22,Ambassador,Whey Protein,55,2026-08-10,1
+1586,30,Ambassador,Whey Protein,55,2025-12-21,1
+1587,44,Ambassador,Pre-Workout,40,2026-03-11,1
+1587,44,Ambassador,Pre-Workout,40,2026-05-04,2
+1587,44,Ambassador,Pre-Workout,40,2026-06-30,3
+1587,44,Ambassador,Pre-Workout,40,2026-08-26,4
+1588,32,TikTok,Whey Protein,55,2026-05-03,1
+1589,21,Instagram,Whey Protein,55,2026-02-08,1
+1589,21,Instagram,Whey Protein,55,2026-03-09,2
+1589,21,Instagram,Whey Protein,55,2026-04-09,3
+1590,29,Organic,Whey Protein,55,2025-10-03,1
+1590,29,Organic,Whey Protein,55,2025-10-30,2
+1590,29,Organic,Whey Protein,55,2025-11-24,3
+1590,29,Organic,Whey Protein,55,2025-12-21,4
+1591,38,Instagram,Multivitamin,25,2026-07-30,1
+1592,45,TikTok,Creatine,35,2025-11-28,1
+1592,45,TikTok,Creatine,35,2026-01-23,2
+1592,45,TikTok,Creatine,35,2026-03-24,3
+1592,45,TikTok,Creatine,35,2026-06-05,4
+1592,45,TikTok,Creatine,35,2026-08-12,5
+1593,33,Organic,Whey Protein,55,2025-12-09,1
+1593,33,Organic,Whey Protein,55,2026-01-08,2
+1593,33,Organic,Whey Protein,55,2026-02-13,3
+1593,33,Organic,Whey Protein,55,2026-03-16,4
+1593,33,Organic,Whey Protein,55,2026-04-15,5
+1594,26,Ambassador,Multivitamin,25,2026-07-11,1
+1595,37,TikTok,Pre-Workout,40,2026-01-25,1
+1596,31,Organic,Multivitamin,25,2026-08-10,1
+1597,31,Instagram,Pre-Workout,40,2026-06-05,1
+1598,38,Instagram,Whey Protein,55,2026-01-01,1
+1599,33,Ambassador,Multivitamin,25,2025-09-26,1
+1599,33,Ambassador,Multivitamin,25,2026-01-01,2
+1599,33,Ambassador,Multivitamin,25,2026-04-04,3
+1599,33,Ambassador,Multivitamin,25,2026-07-03,4
+1600,28,TikTok,Pre-Workout,40,2026-09-04,1
+1601,34,Organic,Creatine,35,2025-10-24,1
+1602,23,Instagram,Whey Protein,55,2026-06-12,1
+1602,23,Instagram,Whey Protein,55,2026-07-15,2
+1602,23,Instagram,Whey Protein,55,2026-08-26,3
+1603,42,TikTok,Pre-Workout,40,2026-03-20,1
+1604,29,Organic,Pre-Workout,40,2026-06-26,1
+1604,29,Organic,Pre-Workout,40,2026-08-16,2
+1605,40,TikTok,Creatine,35,2026-06-02,1
+1606,36,Instagram,Pre-Workout,40,2026-05-16,1
+1607,35,Organic,Creatine,35,2026-03-21,1
+1607,35,Organic,Creatine,35,2026-05-17,2
+1608,25,TikTok,Pre-Workout,40,2026-07-09,1
+1608,25,TikTok,Pre-Workout,40,2026-08-18,2
+1609,43,Instagram,Pre-Workout,40,2025-10-26,1
+1609,43,Instagram,Pre-Workout,40,2025-12-15,2
+1609,43,Instagram,Pre-Workout,40,2026-01-25,3
+1610,22,TikTok,Pre-Workout,40,2025-12-12,1
+1611,20,Ambassador,Creatine,35,2026-06-02,1
+1612,36,Organic,Whey Protein,55,2026-01-12,1
+1612,36,Organic,Whey Protein,55,2026-02-10,2
+1612,36,Organic,Whey Protein,55,2026-03-12,3
+1612,36,Organic,Whey Protein,55,2026-04-19,4
+1613,38,Organic,Creatine,35,2026-04-23,1
+1613,38,Organic,Creatine,35,2026-06-24,2
+1613,38,Organic,Creatine,35,2026-09-05,3
+1614,27,Organic,Creatine,35,2026-03-14,1
+1614,27,Organic,Creatine,35,2026-05-26,2
+1615,45,Organic,Whey Protein,55,2026-04-04,1
+1615,45,Organic,Whey Protein,55,2026-05-18,2
+1615,45,Organic,Whey Protein,55,2026-06-19,3
+1615,45,Organic,Whey Protein,55,2026-08-03,4
+1616,33,TikTok,Pre-Workout,40,2026-02-25,1
+1617,25,TikTok,Creatine,35,2026-06-22,1
+1618,38,Instagram,Whey Protein,55,2026-01-21,1
+1619,32,Ambassador,Whey Protein,55,2026-06-06,1
+1619,32,Ambassador,Whey Protein,55,2026-07-03,2
+1619,32,Ambassador,Whey Protein,55,2026-08-08,3
+1620,43,Ambassador,Whey Protein,55,2025-12-30,1
+1621,30,TikTok,Multivitamin,25,2025-12-23,1
+1622,31,Instagram,Multivitamin,25,2025-11-06,1
+1623,35,Ambassador,Multivitamin,25,2025-12-02,1
+1623,35,Ambassador,Multivitamin,25,2026-03-15,2
+1623,35,Ambassador,Multivitamin,25,2026-06-28,3
+1624,32,Instagram,Whey Protein,55,2025-11-05,1
+1625,27,TikTok,Whey Protein,55,2026-04-06,1
+1626,20,TikTok,Creatine,35,2026-06-28,1
+1626,20,TikTok,Creatine,35,2026-08-27,2
+1627,28,TikTok,Multivitamin,25,2025-11-29,1
+1628,38,Organic,Pre-Workout,40,2025-12-10,1
+1628,38,Organic,Pre-Workout,40,2026-01-24,2
+1628,38,Organic,Pre-Workout,40,2026-03-06,3
+1628,38,Organic,Pre-Workout,40,2026-04-18,4
+1628,38,Organic,Pre-Workout,40,2026-06-07,5
+1629,24,Instagram,Multivitamin,25,2026-03-18,1
+1630,39,Ambassador,Creatine,35,2026-06-14,1
+1630,39,Ambassador,Creatine,35,2026-08-09,2
+1631,36,Organic,Multivitamin,25,2026-09-14,1
+1632,20,Organic,Creatine,35,2026-04-02,1
+1633,24,Organic,Whey Protein,55,2026-01-04,1
+1633,24,Organic,Whey Protein,55,2026-02-18,2
+1633,24,Organic,Whey Protein,55,2026-03-24,3
+1634,33,TikTok,Whey Protein,55,2025-10-29,1
+1635,33,Organic,Multivitamin,25,2025-12-02,1
+1636,20,Ambassador,Multivitamin,25,2025-12-15,1
+1636,20,Ambassador,Multivitamin,25,2026-03-21,2
+1636,20,Ambassador,Multivitamin,25,2026-06-19,3
+1637,26,TikTok,Multivitamin,25,2025-11-27,1
+1638,44,Instagram,Creatine,35,2025-09-28,1
+1639,42,Instagram,Whey Protein,55,2026-04-05,1
+1639,42,Instagram,Whey Protein,55,2026-05-17,2
+1639,42,Instagram,Whey Protein,55,2026-06-24,3
+1639,42,Instagram,Whey Protein,55,2026-08-06,4
+1640,35,Instagram,Whey Protein,55,2026-01-01,1
+1641,35,Organic,Multivitamin,25,2026-09-13,1
+1642,20,Ambassador,Multivitamin,25,2026-04-12,1
+1643,34,TikTok,Pre-Workout,40,2026-06-04,1
+1643,34,TikTok,Pre-Workout,40,2026-07-19,2
+1643,34,TikTok,Pre-Workout,40,2026-09-02,3
+1644,22,Instagram,Whey Protein,55,2025-11-08,1
+1645,24,Organic,Pre-Workout,40,2026-08-05,1
+1646,28,Ambassador,Whey Protein,55,2026-03-21,1
+1646,28,Ambassador,Whey Protein,55,2026-05-02,2
+1646,28,Ambassador,Whey Protein,55,2026-06-06,3
+1646,28,Ambassador,Whey Protein,55,2026-07-09,4
+1646,28,Ambassador,Whey Protein,55,2026-08-19,5
+1647,45,Organic,Whey Protein,55,2026-08-07,1
+1648,21,Organic,Multivitamin,25,2026-04-20,1
+1648,21,Organic,Multivitamin,25,2026-07-17,2
+1649,43,TikTok,Creatine,35,2026-03-13,1
+1650,31,Ambassador,Creatine,35,2026-03-02,1
+1650,31,Ambassador,Creatine,35,2026-05-14,2
+1650,31,Ambassador,Creatine,35,2026-07-27,3
+1651,23,TikTok,Creatine,35,2025-11-29,1
+1652,19,Organic,Multivitamin,25,2025-10-11,1
+1653,40,Ambassador,Pre-Workout,40,2026-09-01,1
+1654,18,Ambassador,Creatine,35,2026-03-16,1
+1655,27,Ambassador,Creatine,35,2026-07-20,1
+1656,45,TikTok,Pre-Workout,40,2026-02-16,1
+1656,45,TikTok,Pre-Workout,40,2026-04-07,2
+1656,45,TikTok,Pre-Workout,40,2026-05-25,3
+1656,45,TikTok,Pre-Workout,40,2026-07-17,4
+1656,45,TikTok,Pre-Workout,40,2026-09-14,5
+1657,24,TikTok,Multivitamin,25,2025-10-20,1
+1657,24,TikTok,Multivitamin,25,2026-01-28,2
+1657,24,TikTok,Multivitamin,25,2026-05-09,3
+1657,24,TikTok,Multivitamin,25,2026-08-13,4
+1658,20,Instagram,Creatine,35,2026-05-10,1
+1659,22,Organic,Whey Protein,55,2025-10-12,1
+1659,22,Organic,Whey Protein,55,2025-11-07,2
+1659,22,Organic,Whey Protein,55,2025-12-09,3
+1660,32,TikTok,Whey Protein,55,2025-11-16,1
+1661,26,Instagram,Creatine,35,2026-04-16,1
+1662,38,Organic,Whey Protein,55,2026-01-11,1
+1663,29,Instagram,Multivitamin,25,2026-09-20,1
+1664,45,Instagram,Multivitamin,25,2025-11-05,1
+1665,29,Ambassador,Pre-Workout,40,2026-06-29,1
+1666,41,Ambassador,Whey Protein,55,2026-05-02,1
+1666,41,Ambassador,Whey Protein,55,2026-05-28,2
+1666,41,Ambassador,Whey Protein,55,2026-06-27,3
+1666,41,Ambassador,Whey Protein,55,2026-08-09,4
+1666,41,Ambassador,Whey Protein,55,2026-09-09,5
+1667,38,Instagram,Pre-Workout,40,2026-07-08,1
+1668,38,Ambassador,Multivitamin,25,2025-12-14,1
+1668,38,Ambassador,Multivitamin,25,2026-03-24,2
+1669,38,Instagram,Pre-Workout,40,2026-04-01,1
+1670,25,TikTok,Creatine,35,2026-03-06,1
+1671,40,Ambassador,Creatine,35,2026-03-03,1
+1671,40,Ambassador,Creatine,35,2026-05-08,2
+1671,40,Ambassador,Creatine,35,2026-07-16,3
+1671,40,Ambassador,Creatine,35,2026-09-17,4
+1672,27,Organic,Multivitamin,25,2026-08-02,1
+1673,35,Ambassador,Creatine,35,2026-09-19,1
+1674,28,TikTok,Creatine,35,2026-01-12,1
+1675,26,Ambassador,Creatine,35,2026-05-07,1
+1675,26,Ambassador,Creatine,35,2026-07-02,2
+1675,26,Ambassador,Creatine,35,2026-09-14,3
+1676,39,Organic,Creatine,35,2026-05-03,1
+1677,38,TikTok,Multivitamin,25,2026-06-20,1
+1678,31,Ambassador,Multivitamin,25,2026-09-03,1
+1679,28,Instagram,Pre-Workout,40,2025-12-07,1
+1680,39,Organic,Creatine,35,2025-12-09,1
+1680,39,Organic,Creatine,35,2026-02-19,2
+1680,39,Organic,Creatine,35,2026-04-20,3
+1681,21,Ambassador,Multivitamin,25,2026-05-22,1
+1681,21,Ambassador,Multivitamin,25,2026-09-01,2
+1682,38,Ambassador,Whey Protein,55,2025-11-19,1
+1682,38,Ambassador,Whey Protein,55,2025-12-23,2
+1682,38,Ambassador,Whey Protein,55,2026-01-30,3
+1683,29,Ambassador,Creatine,35,2025-11-25,1
+1683,29,Ambassador,Creatine,35,2026-01-22,2
+1683,29,Ambassador,Creatine,35,2026-04-02,3
+1683,29,Ambassador,Creatine,35,2026-05-28,4
+1683,29,Ambassador,Creatine,35,2026-08-11,5
+1684,33,TikTok,Pre-Workout,40,2025-10-20,1
+1685,34,Organic,Creatine,35,2025-09-23,1
+1685,34,Organic,Creatine,35,2025-11-21,2
+1685,34,Organic,Creatine,35,2026-01-21,3
+1686,31,Ambassador,Multivitamin,25,2026-03-06,1
+1686,31,Ambassador,Multivitamin,25,2026-06-01,2
+1686,31,Ambassador,Multivitamin,25,2026-09-09,3
+1687,38,Ambassador,Pre-Workout,40,2026-04-27,1
+1687,38,Ambassador,Pre-Workout,40,2026-06-06,2
+1688,26,Organic,Pre-Workout,40,2026-01-07,1
+1689,36,Instagram,Pre-Workout,40,2025-12-16,1
+1690,22,TikTok,Multivitamin,25,2026-06-08,1
+1691,31,Organic,Multivitamin,25,2026-06-06,1
+1691,31,Organic,Multivitamin,25,2026-09-16,2
+1692,41,Instagram,Creatine,35,2026-03-07,1
+1693,42,Ambassador,Pre-Workout,40,2026-05-31,1
+1693,42,Ambassador,Pre-Workout,40,2026-07-30,2
+1694,25,Instagram,Creatine,35,2026-08-26,1
+1695,23,Ambassador,Whey Protein,55,2026-07-07,1
+1696,27,Ambassador,Multivitamin,25,2026-05-09,1
+1697,31,Ambassador,Pre-Workout,40,2026-05-22,1
+1697,31,Ambassador,Pre-Workout,40,2026-07-12,2
+1697,31,Ambassador,Pre-Workout,40,2026-08-27,3
+1698,18,Organic,Pre-Workout,40,2026-08-29,1
+1699,36,TikTok,Pre-Workout,40,2026-02-25,1
+1699,36,TikTok,Pre-Workout,40,2026-04-18,2
+1700,42,Ambassador,Whey Protein,55,2026-04-09,1
+1700,42,Ambassador,Whey Protein,55,2026-05-07,2
+1701,19,TikTok,Whey Protein,55,2026-05-17,1
+1702,21,Organic,Creatine,35,2026-08-20,1
+1703,27,TikTok,Multivitamin,25,2026-07-21,1
+1704,37,Ambassador,Pre-Workout,40,2025-10-19,1
+1704,37,Ambassador,Pre-Workout,40,2025-12-14,2
+1705,27,TikTok,Whey Protein,55,2025-11-22,1
+1706,24,Organic,Pre-Workout,40,2026-01-13,1
+1707,29,Instagram,Multivitamin,25,2026-06-23,1
+1708,24,Organic,Multivitamin,25,2026-04-18,1
+1708,24,Organic,Multivitamin,25,2026-07-12,2
+1709,21,TikTok,Multivitamin,25,2026-01-06,1
+1709,21,TikTok,Multivitamin,25,2026-04-17,2
+1710,41,TikTok,Whey Protein,55,2025-11-07,1
+1711,32,Instagram,Creatine,35,2026-06-01,1
+1711,32,Instagram,Creatine,35,2026-07-29,2
+1712,45,Instagram,Whey Protein,55,2026-06-05,1
+1713,43,Ambassador,Creatine,35,2026-09-02,1
+1714,18,TikTok,Pre-Workout,40,2026-03-24,1
+1715,28,Instagram,Creatine,35,2026-03-22,1
+1716,41,Ambassador,Whey Protein,55,2025-10-22,1
+1716,41,Ambassador,Whey Protein,55,2025-11-21,2
+1716,41,Ambassador,Whey Protein,55,2025-12-19,3
+1716,41,Ambassador,Whey Protein,55,2026-01-25,4
+1717,32,Organic,Creatine,35,2025-10-07,1
+1718,43,Organic,Multivitamin,25,2026-02-27,1
+1718,43,Organic,Multivitamin,25,2026-05-26,2
+1718,43,Organic,Multivitamin,25,2026-08-23,3
+1719,45,TikTok,Pre-Workout,40,2026-01-18,1
+1719,45,TikTok,Pre-Workout,40,2026-03-17,2
+1719,45,TikTok,Pre-Workout,40,2026-05-10,3
+1719,45,TikTok,Pre-Workout,40,2026-06-24,4
+1719,45,TikTok,Pre-Workout,40,2026-08-22,5
+1720,42,Organic,Creatine,35,2025-12-23,1
+1720,42,Organic,Creatine,35,2026-03-03,2
+1720,42,Organic,Creatine,35,2026-05-12,3
+1721,31,TikTok,Multivitamin,25,2025-10-26,1
+1721,31,TikTok,Multivitamin,25,2026-02-08,2
+1721,31,TikTok,Multivitamin,25,2026-05-14,3
+1721,31,TikTok,Multivitamin,25,2026-08-07,4
+1722,39,Instagram,Creatine,35,2026-09-09,1
+1723,31,TikTok,Pre-Workout,40,2026-07-25,1
+1724,22,Organic,Whey Protein,55,2026-04-20,1
+1724,22,Organic,Whey Protein,55,2026-05-31,2
+1724,22,Organic,Whey Protein,55,2026-07-10,3
+1725,45,Organic,Pre-Workout,40,2026-09-05,1
+1726,28,Instagram,Creatine,35,2026-09-22,1
+1727,30,Organic,Pre-Workout,40,2026-05-26,1
+1727,30,Organic,Pre-Workout,40,2026-07-23,2
+1727,30,Organic,Pre-Workout,40,2026-09-15,3
+1728,32,Organic,Creatine,35,2025-12-30,1
+1728,32,Organic,Creatine,35,2026-03-15,2
+1728,32,Organic,Creatine,35,2026-05-09,3
+1728,32,Organic,Creatine,35,2026-07-06,4
+1728,32,Organic,Creatine,35,2026-09-11,5
+1729,19,Organic,Whey Protein,55,2025-10-07,1
+1730,34,Ambassador,Pre-Workout,40,2026-06-26,1
+1731,28,Organic,Creatine,35,2026-03-13,1
+1732,45,Instagram,Multivitamin,25,2026-05-18,1
+1732,45,Instagram,Multivitamin,25,2026-08-22,2
+1733,21,TikTok,Pre-Workout,40,2026-08-23,1
+1734,35,Ambassador,Creatine,35,2025-11-28,1
+1735,23,TikTok,Multivitamin,25,2026-04-24,1
+1735,23,TikTok,Multivitamin,25,2026-07-21,2
+1736,24,Instagram,Whey Protein,55,2026-05-12,1
+1737,24,Organic,Multivitamin,25,2026-03-21,1
+1738,40,Instagram,Creatine,35,2025-10-26,1
+1738,40,Instagram,Creatine,35,2025-12-21,2
+1738,40,Instagram,Creatine,35,2026-03-06,3
+1738,40,Instagram,Creatine,35,2026-05-18,4
+1738,40,Instagram,Creatine,35,2026-07-15,5
+1739,32,Organic,Pre-Workout,40,2026-01-28,1
+1740,34,TikTok,Whey Protein,55,2026-01-22,1
+1741,44,Organic,Multivitamin,25,2026-05-25,1
+1742,40,Instagram,Pre-Workout,40,2026-08-02,1
+1743,21,Instagram,Multivitamin,25,2026-01-21,1
+1744,34,Ambassador,Multivitamin,25,2026-06-03,1
+1744,34,Ambassador,Multivitamin,25,2026-09-04,2
+1745,27,Ambassador,Multivitamin,25,2026-01-06,1
+1746,31,Instagram,Creatine,35,2026-09-02,1
+1747,40,Ambassador,Pre-Workout,40,2026-07-16,1
+1747,40,Ambassador,Pre-Workout,40,2026-09-05,2
+1748,34,Instagram,Creatine,35,2026-04-11,1
+1749,35,Ambassador,Multivitamin,25,2026-03-08,1
+1749,35,Ambassador,Multivitamin,25,2026-06-18,2
+1749,35,Ambassador,Multivitamin,25,2026-09-20,3
+1750,34,TikTok,Whey Protein,55,2026-01-15,1
+1750,34,TikTok,Whey Protein,55,2026-02-10,2
+1750,34,TikTok,Whey Protein,55,2026-03-08,3
+1751,26,Instagram,Pre-Workout,40,2026-01-18,1
+1752,22,Ambassador,Whey Protein,55,2026-09-12,1
+1753,24,Ambassador,Whey Protein,55,2026-02-17,1
+1753,24,Ambassador,Whey Protein,55,2026-03-17,2
+1753,24,Ambassador,Whey Protein,55,2026-04-30,3
+1753,24,Ambassador,Whey Protein,55,2026-06-11,4
+1753,24,Ambassador,Whey Protein,55,2026-07-13,5
+1754,25,Organic,Creatine,35,2026-03-29,1
+1755,30,TikTok,Multivitamin,25,2026-09-18,1
+1756,35,Ambassador,Whey Protein,55,2026-05-21,1
+1756,35,Ambassador,Whey Protein,55,2026-06-21,2
+1756,35,Ambassador,Whey Protein,55,2026-08-04,3
+1756,35,Ambassador,Whey Protein,55,2026-09-12,4
+1757,38,Instagram,Creatine,35,2026-04-09,1
+1758,42,Instagram,Pre-Workout,40,2026-02-20,1
+1758,42,Instagram,Pre-Workout,40,2026-04-03,2
+1758,42,Instagram,Pre-Workout,40,2026-05-18,3
+1759,41,Instagram,Whey Protein,55,2025-11-30,1
+1759,41,Instagram,Whey Protein,55,2026-01-02,2
+1759,41,Instagram,Whey Protein,55,2026-02-13,3
+1759,41,Instagram,Whey Protein,55,2026-03-18,4
+1759,41,Instagram,Whey Protein,55,2026-04-16,5
+1760,36,Instagram,Creatine,35,2026-02-02,1
+1760,36,Instagram,Creatine,35,2026-04-02,2
+1760,36,Instagram,Creatine,35,2026-05-28,3
+1760,36,Instagram,Creatine,35,2026-07-26,4
+1761,42,TikTok,Creatine,35,2026-06-26,1
+1762,20,Ambassador,Creatine,35,2026-05-09,1
+1762,20,Ambassador,Creatine,35,2026-07-19,2
+1762,20,Ambassador,Creatine,35,2026-09-14,3
+1763,31,Instagram,Multivitamin,25,2026-06-27,1
+1764,28,Ambassador,Creatine,35,2025-12-06,1
+1764,28,Ambassador,Creatine,35,2026-02-16,2
+1764,28,Ambassador,Creatine,35,2026-05-02,3
+1764,28,Ambassador,Creatine,35,2026-06-26,4
+1764,28,Ambassador,Creatine,35,2026-08-23,5
+1765,32,Ambassador,Pre-Workout,40,2026-04-11,1
+1766,19,Instagram,Creatine,35,2026-08-27,1
+1767,35,Ambassador,Creatine,35,2026-03-01,1
+1767,35,Ambassador,Creatine,35,2026-05-11,2
+1767,35,Ambassador,Creatine,35,2026-07-21,3
+1768,19,Organic,Creatine,35,2026-06-04,1
+1769,28,Instagram,Whey Protein,55,2025-11-06,1
+1770,42,Instagram,Whey Protein,55,2026-09-13,1
+1771,39,Instagram,Pre-Workout,40,2026-05-03,1
+1772,44,Organic,Whey Protein,55,2025-12-19,1
+1772,44,Organic,Whey Protein,55,2026-02-02,2
+1772,44,Organic,Whey Protein,55,2026-03-01,3
+1772,44,Organic,Whey Protein,55,2026-03-30,4
+1772,44,Organic,Whey Protein,55,2026-04-24,5
+1773,40,Organic,Creatine,35,2025-11-19,1
+1773,40,Organic,Creatine,35,2026-01-14,2
+1774,43,Instagram,Creatine,35,2026-04-12,1
+1775,26,Instagram,Multivitamin,25,2026-04-12,1
+1775,26,Instagram,Multivitamin,25,2026-07-19,2
+1776,30,TikTok,Whey Protein,55,2025-10-27,1
+1777,42,TikTok,Whey Protein,55,2026-09-20,1
+1778,29,TikTok,Whey Protein,55,2026-08-22,1
+1779,37,Ambassador,Whey Protein,55,2026-03-10,1
+1779,37,Ambassador,Whey Protein,55,2026-04-16,2
+1779,37,Ambassador,Whey Protein,55,2026-05-23,3
+1779,37,Ambassador,Whey Protein,55,2026-06-17,4
+1779,37,Ambassador,Whey Protein,55,2026-07-27,5
+1780,35,Instagram,Pre-Workout,40,2025-11-04,1
+1780,35,Instagram,Pre-Workout,40,2025-12-31,2
+1780,35,Instagram,Pre-Workout,40,2026-02-18,3
+1780,35,Instagram,Pre-Workout,40,2026-04-19,4
+1780,35,Instagram,Pre-Workout,40,2026-06-02,5
+1781,39,Ambassador,Creatine,35,2026-07-23,1
+1782,35,TikTok,Pre-Workout,40,2026-03-23,1
+1782,35,TikTok,Pre-Workout,40,2026-05-20,2
+1783,35,Organic,Whey Protein,55,2026-06-11,1
+1783,35,Organic,Whey Protein,55,2026-07-12,2
+1783,35,Organic,Whey Protein,55,2026-08-19,3
+1784,23,Instagram,Pre-Workout,40,2026-03-27,1
+1784,23,Instagram,Pre-Workout,40,2026-05-12,2
+1784,23,Instagram,Pre-Workout,40,2026-06-24,3
+1784,23,Instagram,Pre-Workout,40,2026-08-08,4
+1785,45,TikTok,Multivitamin,25,2025-12-31,1
+1786,27,TikTok,Whey Protein,55,2026-07-24,1
+1787,41,Instagram,Multivitamin,25,2026-09-15,1
+1788,22,Ambassador,Pre-Workout,40,2025-12-20,1
+1788,22,Ambassador,Pre-Workout,40,2026-02-04,2
+1789,33,Ambassador,Multivitamin,25,2026-04-12,1
+1789,33,Ambassador,Multivitamin,25,2026-07-24,2
+1790,43,Ambassador,Creatine,35,2026-02-10,1
+1791,18,Instagram,Creatine,35,2026-08-25,1
+1792,26,Organic,Creatine,35,2026-03-27,1
+1792,26,Organic,Creatine,35,2026-06-05,2
+1792,26,Organic,Creatine,35,2026-08-13,3
+1793,42,Ambassador,Creatine,35,2026-08-09,1
+1794,44,TikTok,Creatine,35,2026-08-04,1
+1795,35,Instagram,Pre-Workout,40,2026-01-01,1
+1795,35,Instagram,Pre-Workout,40,2026-02-12,2
+1796,45,TikTok,Whey Protein,55,2026-07-08,1
+1797,42,Organic,Pre-Workout,40,2026-02-21,1
+1798,35,Ambassador,Multivitamin,25,2026-08-30,1
+1799,29,Instagram,Multivitamin,25,2026-03-27,1
+1799,29,Instagram,Multivitamin,25,2026-06-24,2
+1800,30,TikTok,Creatine,35,2026-07-19,1
+1801,45,Instagram,Pre-Workout,40,2026-01-04,1
+1802,32,Instagram,Pre-Workout,40,2026-01-09,1
+1802,32,Instagram,Pre-Workout,40,2026-03-05,2
+1802,32,Instagram,Pre-Workout,40,2026-04-25,3
+1803,25,TikTok,Multivitamin,25,2026-04-25,1
+1803,25,TikTok,Multivitamin,25,2026-07-30,2
+1804,39,TikTok,Pre-Workout,40,2026-09-22,1
+1805,30,Ambassador,Multivitamin,25,2026-03-20,1
+1806,19,TikTok,Creatine,35,2025-11-16,1
+1806,19,TikTok,Creatine,35,2026-01-18,2
+1806,19,TikTok,Creatine,35,2026-04-01,3
+1806,19,TikTok,Creatine,35,2026-06-12,4
+1807,30,Instagram,Multivitamin,25,2026-04-07,1
+1807,30,Instagram,Multivitamin,25,2026-07-17,2
+1808,30,Ambassador,Pre-Workout,40,2026-01-26,1
+1808,30,Ambassador,Pre-Workout,40,2026-03-18,2
+1808,30,Ambassador,Pre-Workout,40,2026-05-12,3
+1808,30,Ambassador,Pre-Workout,40,2026-07-06,4
+1809,34,TikTok,Pre-Workout,40,2026-04-12,1
+1810,20,Instagram,Creatine,35,2026-04-09,1
+1810,20,Instagram,Creatine,35,2026-06-08,2
+1810,20,Instagram,Creatine,35,2026-08-13,3
+1811,39,TikTok,Pre-Workout,40,2026-03-08,1
+1812,41,Ambassador,Whey Protein,55,2026-01-18,1
+1812,41,Ambassador,Whey Protein,55,2026-02-27,2
+1812,41,Ambassador,Whey Protein,55,2026-03-30,3
+1812,41,Ambassador,Whey Protein,55,2026-05-12,4
+1812,41,Ambassador,Whey Protein,55,2026-06-11,5
+1813,18,Organic,Pre-Workout,40,2025-11-30,1
+1813,18,Organic,Pre-Workout,40,2026-01-13,2
+1813,18,Organic,Pre-Workout,40,2026-03-14,3
+1814,36,TikTok,Pre-Workout,40,2026-06-04,1
+1814,36,TikTok,Pre-Workout,40,2026-07-19,2
+1814,36,TikTok,Pre-Workout,40,2026-09-13,3
+1815,41,TikTok,Creatine,35,2026-04-19,1
+1816,32,Instagram,Multivitamin,25,2025-12-17,1
+1817,25,Instagram,Multivitamin,25,2026-07-03,1
+1818,37,Instagram,Creatine,35,2025-10-08,1
+1818,37,Instagram,Creatine,35,2025-12-16,2
+1818,37,Instagram,Creatine,35,2026-02-28,3
+1818,37,Instagram,Creatine,35,2026-05-12,4
+1819,25,TikTok,Multivitamin,25,2026-06-21,1
+1820,18,TikTok,Pre-Workout,40,2026-06-07,1
+1821,44,Organic,Pre-Workout,40,2026-07-16,1
+1821,44,Organic,Pre-Workout,40,2026-09-09,2
+1822,43,TikTok,Whey Protein,55,2026-02-10,1
+1822,43,TikTok,Whey Protein,55,2026-03-26,2
+1822,43,TikTok,Whey Protein,55,2026-05-07,3
+1823,42,TikTok,Multivitamin,25,2026-05-23,1
+1824,45,Ambassador,Whey Protein,55,2026-07-19,1
+1825,25,Organic,Multivitamin,25,2026-09-15,1
+1826,29,Organic,Whey Protein,55,2026-03-22,1
+1826,29,Organic,Whey Protein,55,2026-05-01,2
+1826,29,Organic,Whey Protein,55,2026-06-02,3
+1826,29,Organic,Whey Protein,55,2026-06-29,4
+1827,37,Ambassador,Multivitamin,25,2025-10-06,1
+1827,37,Ambassador,Multivitamin,25,2025-12-30,2
+1828,34,TikTok,Whey Protein,55,2026-03-25,1
+1829,40,Instagram,Creatine,35,2026-04-26,1
+1830,22,TikTok,Multivitamin,25,2026-08-06,1
+1831,26,Ambassador,Multivitamin,25,2026-08-08,1
+1832,31,Instagram,Multivitamin,25,2026-03-02,1
+1832,31,Instagram,Multivitamin,25,2026-06-03,2
+1832,31,Instagram,Multivitamin,25,2026-09-05,3
+1833,42,Ambassador,Multivitamin,25,2026-04-02,1
+1834,41,TikTok,Pre-Workout,40,2026-03-08,1
+1835,21,Instagram,Pre-Workout,40,2026-06-13,1
+1836,43,Ambassador,Whey Protein,55,2026-02-19,1
+1836,43,Ambassador,Whey Protein,55,2026-03-18,2
+1837,33,Instagram,Multivitamin,25,2026-05-19,1
+1837,33,Instagram,Multivitamin,25,2026-08-19,2
+1838,37,TikTok,Whey Protein,55,2025-11-18,1
+1839,37,Organic,Creatine,35,2026-03-13,1
+1840,42,TikTok,Pre-Workout,40,2026-09-11,1
+1841,18,Organic,Pre-Workout,40,2026-01-24,1
+1842,24,Ambassador,Whey Protein,55,2026-06-02,1
+1843,37,Instagram,Pre-Workout,40,2026-05-18,1
+1844,25,Ambassador,Whey Protein,55,2026-07-30,1
+1845,26,TikTok,Multivitamin,25,2026-07-31,1
+1846,30,Organic,Pre-Workout,40,2026-08-02,1
+1846,30,Organic,Pre-Workout,40,2026-09-13,2
+1847,41,Ambassador,Creatine,35,2026-02-08,1
+1847,41,Ambassador,Creatine,35,2026-04-11,2
+1847,41,Ambassador,Creatine,35,2026-06-24,3
+1847,41,Ambassador,Creatine,35,2026-08-24,4
+1848,30,Organic,Whey Protein,55,2026-01-16,1
+1848,30,Organic,Whey Protein,55,2026-02-26,2
+1848,30,Organic,Whey Protein,55,2026-03-26,3
+1848,30,Organic,Whey Protein,55,2026-05-07,4
+1848,30,Organic,Whey Protein,55,2026-06-03,5
+1849,28,Ambassador,Whey Protein,55,2026-06-12,1
+1850,35,Ambassador,Creatine,35,2026-06-27,1
+1851,36,Organic,Multivitamin,25,2026-08-07,1
+1852,42,Ambassador,Multivitamin,25,2025-10-06,1
+1853,33,TikTok,Whey Protein,55,2025-10-17,1
+1854,38,Organic,Pre-Workout,40,2026-05-11,1
+1855,43,Instagram,Creatine,35,2026-08-25,1
+1856,34,Ambassador,Whey Protein,55,2026-09-22,1
+1857,25,Ambassador,Creatine,35,2026-06-22,1
+1857,25,Ambassador,Creatine,35,2026-08-18,2
+1858,33,Instagram,Creatine,35,2026-02-28,1
+1858,33,Instagram,Creatine,35,2026-04-29,2
+1858,33,Instagram,Creatine,35,2026-06-29,3
+1858,33,Instagram,Creatine,35,2026-09-07,4
+1859,25,Instagram,Pre-Workout,40,2025-10-28,1
+1860,25,Instagram,Pre-Workout,40,2026-05-12,1
+1861,22,Ambassador,Whey Protein,55,2026-08-07,1
+1861,22,Ambassador,Whey Protein,55,2026-09-16,2
+1862,42,TikTok,Whey Protein,55,2026-03-03,1
+1863,37,Ambassador,Creatine,35,2026-06-03,1
+1863,37,Ambassador,Creatine,35,2026-08-12,2
+1864,30,Ambassador,Pre-Workout,40,2026-08-18,1
+1865,19,Instagram,Multivitamin,25,2025-10-09,1
+1866,34,TikTok,Creatine,35,2026-07-10,1
+1867,32,Instagram,Whey Protein,55,2026-01-08,1
+1868,28,Organic,Whey Protein,55,2026-02-06,1
+1868,28,Organic,Whey Protein,55,2026-03-15,2
+1868,28,Organic,Whey Protein,55,2026-04-27,3
+1869,28,TikTok,Creatine,35,2025-11-15,1
+1870,23,Ambassador,Creatine,35,2026-04-04,1
+1870,23,Ambassador,Creatine,35,2026-06-17,2
+1870,23,Ambassador,Creatine,35,2026-08-21,3
+1871,33,Instagram,Multivitamin,25,2026-04-17,1
+1871,33,Instagram,Multivitamin,25,2026-07-22,2
+1872,32,Ambassador,Pre-Workout,40,2026-07-09,1
+1872,32,Ambassador,Pre-Workout,40,2026-08-21,2
+1873,35,Instagram,Multivitamin,25,2025-11-24,1
+1874,22,Instagram,Pre-Workout,40,2025-10-21,1
+1875,23,TikTok,Multivitamin,25,2026-08-06,1
+1876,43,Ambassador,Multivitamin,25,2026-05-07,1
+1876,43,Ambassador,Multivitamin,25,2026-08-12,2
+1877,40,TikTok,Pre-Workout,40,2025-12-19,1
+1877,40,TikTok,Pre-Workout,40,2026-02-12,2
+1877,40,TikTok,Pre-Workout,40,2026-04-13,3
+1877,40,TikTok,Pre-Workout,40,2026-05-26,4
+1878,41,Organic,Creatine,35,2026-08-22,1
+1879,29,Ambassador,Whey Protein,55,2025-11-14,1
+1879,29,Ambassador,Whey Protein,55,2025-12-28,2
+1879,29,Ambassador,Whey Protein,55,2026-01-28,3
+1879,29,Ambassador,Whey Protein,55,2026-03-12,4
+1880,42,Instagram,Creatine,35,2026-03-10,1
+1880,42,Instagram,Creatine,35,2026-05-18,2
+1880,42,Instagram,Creatine,35,2026-07-14,3
+1880,42,Instagram,Creatine,35,2026-09-19,4
+1881,32,Ambassador,Pre-Workout,40,2025-12-24,1
+1882,31,Ambassador,Multivitamin,25,2025-12-25,1
+1883,20,TikTok,Pre-Workout,40,2025-09-26,1
+1884,28,Ambassador,Creatine,35,2026-07-13,1
+1885,26,Organic,Multivitamin,25,2026-08-17,1
+1886,41,Ambassador,Multivitamin,25,2026-05-28,1
+1886,41,Ambassador,Multivitamin,25,2026-08-21,2
+1887,39,Instagram,Creatine,35,2025-11-19,1
+1888,24,TikTok,Pre-Workout,40,2026-03-03,1
+1889,20,TikTok,Multivitamin,25,2026-01-27,1
+1890,42,TikTok,Multivitamin,25,2026-04-25,1
+1891,21,TikTok,Creatine,35,2026-05-14,1
+1892,38,TikTok,Multivitamin,25,2026-02-24,1
+1893,41,Instagram,Creatine,35,2025-12-23,1
+1894,22,Instagram,Pre-Workout,40,2026-07-28,1
+1894,22,Instagram,Pre-Workout,40,2026-09-16,2
+1895,45,Organic,Creatine,35,2025-12-04,1
+1895,45,Organic,Creatine,35,2026-02-14,2
+1895,45,Organic,Creatine,35,2026-04-15,3
+1896,38,Organic,Multivitamin,25,2026-02-10,1
+1896,38,Organic,Multivitamin,25,2026-05-17,2
+1896,38,Organic,Multivitamin,25,2026-08-25,3
+1897,43,Instagram,Whey Protein,55,2026-03-18,1
+1898,31,Ambassador,Creatine,35,2025-12-18,1
+1898,31,Ambassador,Creatine,35,2026-02-11,2
+1899,29,Instagram,Creatine,35,2026-04-19,1
+1900,40,TikTok,Multivitamin,25,2026-04-20,1
+1901,27,Organic,Whey Protein,55,2026-09-20,1
+1902,37,Ambassador,Pre-Workout,40,2026-01-08,1
+1903,24,Ambassador,Multivitamin,25,2026-09-14,1
+1904,30,Organic,Pre-Workout,40,2026-05-21,1
+1904,30,Organic,Pre-Workout,40,2026-07-12,2
+1904,30,Organic,Pre-Workout,40,2026-08-28,3
+1905,31,TikTok,Pre-Workout,40,2026-01-01,1
+1906,27,Ambassador,Creatine,35,2026-04-17,1
+1906,27,Ambassador,Creatine,35,2026-06-16,2
+1907,27,Instagram,Whey Protein,55,2026-05-31,1
+1908,26,Organic,Multivitamin,25,2026-06-21,1
+1908,26,Organic,Multivitamin,25,2026-09-18,2
+1909,35,TikTok,Whey Protein,55,2025-10-10,1
+1909,35,TikTok,Whey Protein,55,2025-11-13,2
+1910,22,Ambassador,Multivitamin,25,2026-05-02,1
+1911,20,Instagram,Pre-Workout,40,2026-03-23,1
+1911,20,Instagram,Pre-Workout,40,2026-05-12,2
+1911,20,Instagram,Pre-Workout,40,2026-07-04,3
+1912,43,Ambassador,Multivitamin,25,2026-08-19,1
+1913,40,Organic,Whey Protein,55,2026-01-05,1
+1913,40,Organic,Whey Protein,55,2026-01-31,2
+1913,40,Organic,Whey Protein,55,2026-03-05,3
+1914,20,Organic,Multivitamin,25,2026-07-11,1
+1915,21,TikTok,Pre-Workout,40,2026-05-02,1
+1916,25,Organic,Whey Protein,55,2026-01-29,1
+1916,25,Organic,Whey Protein,55,2026-03-11,2
+1917,33,Instagram,Multivitamin,25,2026-05-13,1
+1918,28,Ambassador,Pre-Workout,40,2026-05-07,1
+1918,28,Ambassador,Pre-Workout,40,2026-07-03,2
+1919,26,TikTok,Multivitamin,25,2026-05-28,1
+1920,29,Instagram,Whey Protein,55,2026-06-13,1
+1921,21,Instagram,Pre-Workout,40,2026-05-21,1
+1922,18,Ambassador,Pre-Workout,40,2026-07-25,1
+1923,30,TikTok,Pre-Workout,40,2026-05-10,1
+1923,30,TikTok,Pre-Workout,40,2026-07-07,2
+1924,40,Organic,Pre-Workout,40,2026-08-18,1
+1925,33,Instagram,Whey Protein,55,2026-05-16,1
+1926,42,Ambassador,Whey Protein,55,2026-01-13,1
+1926,42,Ambassador,Whey Protein,55,2026-02-24,2
+1926,42,Ambassador,Whey Protein,55,2026-03-24,3
+1927,33,Instagram,Pre-Workout,40,2026-03-02,1
+1927,33,Instagram,Pre-Workout,40,2026-04-25,2
+1927,33,Instagram,Pre-Workout,40,2026-06-10,3
+1927,33,Instagram,Pre-Workout,40,2026-07-20,4
+1928,29,Organic,Pre-Workout,40,2026-04-22,1
+1928,29,Organic,Pre-Workout,40,2026-06-16,2
+1929,35,Organic,Creatine,35,2026-06-17,1
+1929,35,Organic,Creatine,35,2026-08-17,2
+1930,35,Instagram,Creatine,35,2025-10-25,1
+1930,35,Instagram,Creatine,35,2025-12-27,2
+1930,35,Instagram,Creatine,35,2026-03-11,3
+1930,35,Instagram,Creatine,35,2026-05-22,4
+1930,35,Instagram,Creatine,35,2026-07-21,5
+1931,34,TikTok,Pre-Workout,40,2026-01-08,1
+1932,35,Ambassador,Creatine,35,2026-06-22,1
+1932,35,Ambassador,Creatine,35,2026-08-21,2
+1933,42,Ambassador,Pre-Workout,40,2025-11-26,1
+1933,42,Ambassador,Pre-Workout,40,2026-01-22,2
+1934,24,Organic,Multivitamin,25,2025-11-10,1
+1935,37,Instagram,Creatine,35,2026-04-07,1
+1935,37,Instagram,Creatine,35,2026-06-04,2
+1935,37,Instagram,Creatine,35,2026-08-01,3
+1936,19,TikTok,Pre-Workout,40,2026-09-12,1
+1937,33,TikTok,Pre-Workout,40,2026-04-04,1
+1937,33,TikTok,Pre-Workout,40,2026-05-29,2
+1937,33,TikTok,Pre-Workout,40,2026-07-24,3
+1937,33,TikTok,Pre-Workout,40,2026-09-21,4
+1938,19,Ambassador,Creatine,35,2026-08-22,1
+1939,38,Instagram,Multivitamin,25,2026-07-23,1
+1940,32,TikTok,Whey Protein,55,2025-12-25,1
+1941,44,Organic,Creatine,35,2026-07-21,1
+1942,44,TikTok,Creatine,35,2026-03-17,1
+1943,44,TikTok,Creatine,35,2026-07-14,1
+1943,44,TikTok,Creatine,35,2026-09-23,2
+1944,41,TikTok,Pre-Workout,40,2026-06-22,1
+1945,24,Instagram,Pre-Workout,40,2026-01-24,1
+1946,35,Instagram,Multivitamin,25,2025-11-04,1
+1947,39,Ambassador,Multivitamin,25,2026-09-09,1
+1948,21,Organic,Pre-Workout,40,2025-11-13,1
+1949,34,Organic,Creatine,35,2026-09-10,1
+1950,29,Organic,Creatine,35,2026-08-02,1
+1951,42,Organic,Multivitamin,25,2026-06-14,1
+1952,37,Ambassador,Pre-Workout,40,2026-09-15,1
+1953,29,Ambassador,Multivitamin,25,2026-09-11,1
+1954,27,TikTok,Whey Protein,55,2026-07-13,1
+1955,18,Ambassador,Creatine,35,2026-02-03,1
+1956,45,Instagram,Creatine,35,2026-07-08,1
+1956,45,Instagram,Creatine,35,2026-09-18,2
+1957,21,Instagram,Whey Protein,55,2025-09-28,1
+1958,22,Instagram,Creatine,35,2026-04-06,1
+1958,22,Instagram,Creatine,35,2026-06-07,2
+1958,22,Instagram,Creatine,35,2026-08-09,3
+1959,20,Ambassador,Multivitamin,25,2026-03-07,1
+1959,20,Ambassador,Multivitamin,25,2026-06-02,2
+1959,20,Ambassador,Multivitamin,25,2026-09-05,3
+1960,23,Organic,Multivitamin,25,2026-05-26,1
+1961,37,TikTok,Creatine,35,2026-05-26,1
+1961,37,TikTok,Creatine,35,2026-07-22,2
+1961,37,TikTok,Creatine,35,2026-09-16,3
+1962,44,Ambassador,Multivitamin,25,2026-04-24,1
+1962,44,Ambassador,Multivitamin,25,2026-07-25,2
+1963,38,TikTok,Multivitamin,25,2026-07-20,1
+1964,28,Instagram,Pre-Workout,40,2026-09-01,1
+1965,25,TikTok,Multivitamin,25,2025-11-01,1
+1966,22,Organic,Pre-Workout,40,2025-12-17,1
+1966,22,Organic,Pre-Workout,40,2026-02-13,2
+1966,22,Organic,Pre-Workout,40,2026-03-26,3
+1966,22,Organic,Pre-Workout,40,2026-05-22,4
+1966,22,Organic,Pre-Workout,40,2026-07-13,5
+1967,20,Ambassador,Multivitamin,25,2025-10-02,1
+1967,20,Ambassador,Multivitamin,25,2025-12-30,2
+1967,20,Ambassador,Multivitamin,25,2026-04-09,3
+1968,33,Instagram,Multivitamin,25,2026-08-11,1
+1969,35,Instagram,Pre-Workout,40,2026-04-15,1
+1969,35,Instagram,Pre-Workout,40,2026-06-07,2
+1969,35,Instagram,Pre-Workout,40,2026-07-27,3
+1969,35,Instagram,Pre-Workout,40,2026-09-23,4
+1970,21,TikTok,Multivitamin,25,2026-08-23,1
+1971,24,Ambassador,Creatine,35,2025-12-12,1
+1971,24,Ambassador,Creatine,35,2026-02-14,2
+1972,29,Instagram,Multivitamin,25,2025-10-16,1
+1973,19,Organic,Pre-Workout,40,2026-07-20,1
+1973,19,Organic,Pre-Workout,40,2026-09-02,2
+1974,41,TikTok,Whey Protein,55,2026-08-20,1
+1974,41,TikTok,Whey Protein,55,2026-09-23,2
+1975,40,Ambassador,Whey Protein,55,2026-01-11,1
+1975,40,Ambassador,Whey Protein,55,2026-02-05,2
+1975,40,Ambassador,Whey Protein,55,2026-03-12,3
+1975,40,Ambassador,Whey Protein,55,2026-04-12,4
+1975,40,Ambassador,Whey Protein,55,2026-05-24,5
+1976,24,Instagram,Creatine,35,2026-02-19,1
+1977,40,Instagram,Whey Protein,55,2025-11-13,1
+1977,40,Instagram,Whey Protein,55,2025-12-16,2
+1978,19,Instagram,Creatine,35,2026-09-03,1
+1979,38,Organic,Whey Protein,55,2026-01-12,1
+1979,38,Organic,Whey Protein,55,2026-02-17,2
+1979,38,Organic,Whey Protein,55,2026-03-17,3
+1979,38,Organic,Whey Protein,55,2026-04-11,4
+1980,45,Ambassador,Multivitamin,25,2026-03-21,1
+1980,45,Ambassador,Multivitamin,25,2026-06-30,2
+1981,33,Ambassador,Whey Protein,55,2025-10-28,1
+1981,33,Ambassador,Whey Protein,55,2025-12-09,2
+1981,33,Ambassador,Whey Protein,55,2026-01-03,3
+1981,33,Ambassador,Whey Protein,55,2026-01-29,4
+1981,33,Ambassador,Whey Protein,55,2026-03-02,5
+1982,28,Ambassador,Multivitamin,25,2026-08-12,1
+1983,39,Ambassador,Creatine,35,2025-11-11,1
+1983,39,Ambassador,Creatine,35,2026-01-12,2
+1983,39,Ambassador,Creatine,35,2026-03-24,3
+1983,39,Ambassador,Creatine,35,2026-05-26,4
+1984,38,TikTok,Creatine,35,2026-03-07,1
+1985,35,TikTok,Creatine,35,2026-05-25,1
+1985,35,TikTok,Creatine,35,2026-07-31,2
+1986,41,TikTok,Multivitamin,25,2026-06-21,1
+1987,31,Instagram,Pre-Workout,40,2026-09-03,1
+1988,27,Organic,Creatine,35,2026-02-22,1
+1988,27,Organic,Creatine,35,2026-04-24,2
+1988,27,Organic,Creatine,35,2026-07-08,3
+1989,36,Instagram,Pre-Workout,40,2026-06-20,1
+1990,40,Ambassador,Pre-Workout,40,2025-11-18,1
+1990,40,Ambassador,Pre-Workout,40,2026-01-17,2
+1990,40,Ambassador,Pre-Workout,40,2026-03-16,3
+1991,28,Instagram,Whey Protein,55,2026-02-21,1
+1992,23,TikTok,Creatine,35,2025-10-29,1
+1993,41,Instagram,Whey Protein,55,2026-03-20,1
+1994,31,Organic,Creatine,35,2026-02-18,1
+1994,31,Organic,Creatine,35,2026-04-18,2
+1994,31,Organic,Creatine,35,2026-06-18,3
+1994,31,Organic,Creatine,35,2026-08-15,4
+1995,23,Instagram,Whey Protein,55,2026-09-05,1
+1996,37,Ambassador,Pre-Workout,40,2025-10-04,1
+1996,37,Ambassador,Pre-Workout,40,2025-11-13,2
+1996,37,Ambassador,Pre-Workout,40,2026-01-03,3
+1997,40,TikTok,Multivitamin,25,2026-02-05,1
+1997,40,TikTok,Multivitamin,25,2026-05-21,2
+1997,40,TikTok,Multivitamin,25,2026-08-25,3
+1998,33,Organic,Multivitamin,25,2026-03-03,1
+1998,33,Organic,Multivitamin,25,2026-06-03,2
+1998,33,Organic,Multivitamin,25,2026-08-28,3
+1999,42,Organic,Whey Protein,55,2026-09-04,1
+2000,25,Organic,Pre-Workout,40,2026-08-01,1
