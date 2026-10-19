@@ -1,114 +1,179 @@
 # FitBrand Co. — D2C Retention & Growth Analytics
 
-![Power BI Dashboard](powerbi/screenshots/dashboard_preview.png)
-
-A full-stack analytics case study on a direct-to-consumer supplement brand: synthetic data generation, SQL modeling, and a Power BI dashboard, built to answer one question — why does customer lifetime value differ so sharply by acquisition channel, and what should the business do about it.
+> **Executive Summary:** A business-first data analytics case study solving early-cohort churn and unit economic dilution in a D2C sports nutrition brand. Analyzed 1,807 transactions across 1,000 unique customers using **Python, SQLite, Power BI, and React (Lovable)**.
 
 ---
 
-## 1. Business Overview & Problem Statement
+## Live Dashboard & Quick Links
 
-FitBrand Co. acquires customers through four channels — Ambassador, Organic, Instagram, and TikTok — and each one produces a different quality of customer, not just a different cost per acquisition. Marketing budgets are usually allocated by CAC alone, which rewards the cheapest channel regardless of whether that channel's customers ever come back.
+| Asset | Resource Link | Description |
+| :--- | :--- | :--- |
+| **Interactive Web App** | [**View Live Lovable Dashboard**](https://fitbrandretention.lovable.app) | Full interactive web application with dynamic filters and cohort drill-downs. |
+| **Power BI Dashboard** | [`powerbi/FitBrand_Dashboard.pbix`](./powerbi/FitBrand_Dashboard.pbix) | Production-ready Power BI report with custom DAX measures. |
+| **Executive Report** | [`docs/FitBrand_Executive_Report.pdf`](./docs/FitBrand_Executive_Report.pdf) | Complete PDF strategic report and financial roadmap. |
 
-This project traces 1,807 transactions from 1,000 unique clients (**$71,175 in total sales**, average LTV **$71.18**, global retention rate **40.10%**) to determine which channel actually generates the most profit per customer once retention and CAC are priced in, and where the recurring-revenue drop-off is coming from. The output is a reallocation decision backed by unit economics, not a dashboard for its own sake.
+![FitBrand Executive Dashboard Preview](./powerbi/screenshots/dashboard_preview.png)
 
-## 2. Tech Stack & Repository Structure
+---
 
-**Stack:** Python (Pandas, Faker) for data generation · SQLite for relational modeling and window functions · Power BI + DAX for the executive dashboard.
+## Table of Contents
 
-```
-fitbrand-retention-analytics/
-├── 01_etl_and_eda_fitbrand.ipynb        # Data generation, SQLite load, SQL analysis
-├── fitbrand_transactions.csv            # Raw transaction-level output
-├── fitbrand.db                          # SQLite database (transactions table)
+- [Business Problem](#business-problem)
+- [Key Results & Unit Economics by Channel](#key-results--unit-economics-by-channel)
+- [Key Insight: Blended LTV vs. Retained LTV](#key-insight-blended-ltv-vs-retained-ltv)
+- [Tech Stack & Repository Architecture](#tech-stack--repository-architecture)
+- [Strategic Action Plan & Managerial Decisions](#strategic-action-plan--managerial-decisions)
+- [How to Run Locally](#how-to-run-locally)
+
+---
+
+## Business Problem
+
+FitBrand Co. scaled top-line revenue across multiple digital marketing channels (**$71,175 USD total revenue** across **1,807 transactions** from **1,000 unique customers**). However, net profit margin expansion decoupled from sales growth.
+
+### The Core Bottleneck
+- **59.90% overall cohort churn** after Order #1 (Global retention rate sits at **40.10%**).
+- **Misallocated marketing spend:** Capital was being assigned based solely on initial customer acquisition volume without accounting for long-term retention or channel-specific CAC.
+- **The Core Question:** *Why does Customer Lifetime Value (LTV) vary so drastically by acquisition channel, and how can we reallocate existing capital to maximize net margin without needing additional ad budget?*
+
+---
+
+## Key Results & Unit Economics by Channel
+
+A channel-by-channel financial diagnosis shows that top-of-funnel volume from paid social (TikTok) delivers low net value, while brand affiliate channels (Ambassador) and organic search drive high profitability.
+
+### Channel Unit Economics Matrix
+
+| Channel | Retention Rate (%) | Average LTV | Gross Margin (65%) | Estimated CAC | Net Profit / Client |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Organic** | **52.94%** | $83.38 | $54.20 | $0.00 | **$54.20** |
+| **Ambassador** | **54.83%** | **$84.29** | $54.79 | $8.00 | **$46.79** |
+| **Instagram** | **30.48%** | $62.42 | $40.57 | $12.00 | **$28.57** |
+| **TikTok** | **21.79%** | $54.32 | $35.31 | $15.00 | **$20.31** |
+
+### Critical Takeaways
+1. **Ambassador is +130% more efficient than TikTok:** An Ambassador-acquired customer yields **$46.79 USD in net profit** vs. **$20.31 USD** for TikTok due to lower acquisition costs ($8 vs. $15 CAC) and significantly higher retention (54.83% vs. 21.79%).
+2. **Organic Search is the Margin Champion:** Yielding **$54.20 USD net profit** per customer, organic retention proves that high trust at acquisition translates directly into recurring profit.
+3. **TikTok Unit Margin Fragility:** With a **$35.31 USD gross margin** against a **$15.00 USD CAC**, TikTok leaves minimal room for error. Any spike in CAC makes the channel net-unprofitable.
+
+---
+
+## Key Insight: Blended LTV vs. Retained LTV
+
+Looking only at **Blended LTV** leads to a wrong conclusion: that TikTok traffic is inherently "low quality." 
+
+**Blended LTV (Order #1 Included):**
+Ambassador: $84.29 USD  │  TikTok: $54.32 USD  ──► Gap: $29.97 USD (~55% higher)
+
+However, isolating **retained customers only** (`purchase_number > 1`) reveals a completely different picture:
+
+**Retained-Only LTV (Repeat Buyers):**
+Ambassador: ~$123.91 USD  │  TikTok: ~$111.08 USD  ──► Gap narrows to ~$12.83 USD (~11%)
+
+### The Diagnostic Finding
+TikTok's weakness is **not customer quality long-term**; it is **first-purchase drop-off**. TikTok buyers suffer from high impulse-buying behavior and lack an immediate post-purchase engagement onboarding. When a TikTok customer is successfully converted to Order #2, their long-term value almost matches that of an Ambassador buyer. 
+
+The strategic goal is therefore not to abandon TikTok, but to **fix the first 30-day retention loop**.
+
+---
+
+## Tech Stack & Repository Architecture
+
+- **Data Processing & Synthetic Generation:** Python (Pandas, Faker)
+- **Database & Advanced Analytics:** SQLite (SQL Window Functions: `LAG()`, `JULIANDAY`)
+- **Business Intelligence & Visualization:** Power BI (DAX Modeling) & React (Lovable Web App)
+
+```text
+fitbrand-d2c-retention-analytics/
+├── data/
+│   ├── raw/fitbrand_transactions.csv          # Transactional dataset (1,807 rows)
+│   └── database/fitbrand.db                   # SQLite relational database
+├── notebooks/
+│   └── 01_etl_and_eda_fitbrand.ipynb          # Python ETL pipeline & EDA
+├── sql/
+│   ├── 01_retention_and_ltv_by_channel.sql    # LTV & retention aggregation queries
+│   └── 02_repurchase_velocity_window_lag.sql  # SQL LAG() repurchase velocity analysis
 ├── powerbi/
-│   ├── FitBrand_Dashboard.pbix          # Power BI file (model + DAX measures)
-│   └── screenshots/dashboard_preview.png
-├── FitBrand_Executive_Report_ES.docx    # Full write-up (Spanish)
-├── requirements.txt
-└── README.md
+│   ├── FitBrand_Dashboard.pbix                # Power BI data model & dashboards
+│   └── screenshots/dashboard_preview.png     # Dashboard preview image
+├── docs/
+│   └── FitBrand_Executive_Report.pdf          # PDF Executive Strategy Report
+├── requirements.txt                           # Python dependencies
+└── README.md                                  # Repository documentation
 ```
 
-| File | What it's for |
-|---|---|
-| `01_etl_and_eda_fitbrand.ipynb` | Generates the synthetic dataset with Faker, applies channel-based retention probabilities and product depletion cycles, loads it into SQLite, and runs the retention/LTV and repurchase-velocity queries. |
-| `fitbrand_transactions.csv` | One row per transaction — the raw layer both SQL and Power BI read from. |
-| `fitbrand.db` | SQLite database with the `transactions` table used for all SQL work. |
-| `powerbi/FitBrand_Dashboard.pbix` | The relational model and DAX measures behind the executive dashboard. |
-| `FitBrand_Executive_Report_ES.docx` | The complete narrative report — methodology, assumptions, and recommendations. |
+### Core Analytical SQL Logic (Repurchase Lag Analysis)
+Using `LAG()` window functions, we calculated the empirical purchase delay across core product categories:
 
-## 3. Key Findings & Unit Economics
-
-Revenue by channel doesn't tell you much on its own. Once retention, gross margin (65% industry assumption for D2C supplements), and estimated CAC are factored in, the gap between channels stops being marginal:
-
-| Channel | Retention % | LTV | Gross Margin | CAC | Net Profit / Client |
-|---|---|---|---|---|---|
-| **Ambassador** | 54.83% | $84.29 | $54.79 | $8.00 | $46.79 |
-| Organic | 52.94% | $83.38 | $54.20 | $0.00 | $54.20 |
-| Instagram | 30.48% | $62.42 | $40.57 | $12.00 | $28.57 |
-| **TikTok** | 21.79% | $54.32 | $35.31 | $15.00 | $20.31 |
-
-Organic — with no acquisition cost at all — is the single most profitable channel on a per-customer basis. Ambassador is the strongest paid channel, with net profit more than double TikTok's. TikTok isn't unprofitable, but it trails on every metric that matters after CAC.
-
-**Repurchase cycles**, pulled from a SQL `LAG()` window function measuring actual days between consecutive purchases, run longer than each product's nominal depletion cycle:
-
-| Product | Nominal Cycle | Empirical Avg. Days to Repurchase |
-|---|---|---|
-| Whey Protein | 30 days | 35 days |
-| Pre-Workout | 45 days | 51 days |
-| Creatine | 60 days | 65 days |
-| Multivitamin | 90 days | 95 days |
-
-That consistent ~5–6 day lag is the window retargeting needs to close — customers aren't repurchasing late by accident, they're repurchasing late by default.
-
-## 4. Deep Dive: Blended vs. Retained LTV Analysis
-
-The blended LTV numbers above mix first-time buyers with repeat customers, and that mix hides where TikTok is actually losing money. On a blended basis, Ambassador outperforms TikTok by **$29.97** ($84.29 vs. $54.32) — a 55% gap that looks like TikTok customers are simply worth less.
-
-Isolating only customers who made a second purchase (`purchase_number > 1`) tells a different story:
-
-| Channel | Retained-Only LTV |
-|---|---|
-| Ambassador | ~$123.91 |
-| TikTok | ~$111.08 |
-
-Once a TikTok customer repurchases, their value sits within **~$12.83** of Ambassador's — an 11% gap, not 55%. TikTok's problem isn't customer quality; it's first-purchase churn. Most TikTok customers never make it to a second order, but the ones who do behave almost like everyone else. That distinction changes the fix: this isn't a "TikTok traffic is bad" problem, it's a "TikTok's first 30 days have no retention mechanism" problem.
-
-## 5. Strategic Action Plan
-
-1. **Reallocate 30% of TikTok's paid media budget to the Ambassador commission program.** Ambassador already delivers more than double TikTok's net profit per client, and Organic's $0 CAC means it should be defended with more owned-content investment, not touched by the reallocation.
-2. **A first-30-day retention sequence specifically for TikTok**, since the retained-LTV gap shows the value loss is concentrated at the first-to-second-purchase transition, not in the long-term value of customers who do come back.
-3. **Retargeting triggers timed to the empirical repurchase cycle, not the nominal one.** Whey Protein customers should be re-engaged around day 30–32 — the `LAG()` output shows the real median lands at 35 days, and a day-25 trigger would try to sell a customer who hasn't run out yet.
-4. **Checkout cross-sell bundles** for single-SKU TikTok orders, to raise the odds a customer's first order includes something with a shorter depletion cycle, giving retargeting an earlier, more natural touchpoint.
-
-## 6. Instructions to Run Locally
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/fitbrand-retention-analytics.git
-cd fitbrand-retention-analytics
-
-# 2. Create a virtual environment and install dependencies
-python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-# 3. Run the notebook to regenerate the dataset and SQL analysis
-jupyter notebook 01_etl_and_eda_fitbrand.ipynb
-# This produces fitbrand_transactions.csv and fitbrand.db
-
-# 4. Open the dashboard
-# Requires Power BI Desktop (Windows) — open powerbi/FitBrand_Dashboard.pbix
-# and point the data source at fitbrand.db or the CSV.
+```SQL
+WITH ordered_purchases AS (
+    SELECT
+        client_id,
+        product,
+        purchase_date,
+        LAG(purchase_date) OVER (
+            PARTITION BY client_id, product
+            ORDER BY purchase_date
+        ) AS previous_purchase_date
+    FROM transactions
+)
+SELECT
+    product,
+    ROUND(AVG(JULIANDAY(purchase_date) - JULIANDAY(previous_purchase_date)), 0) AS avg_days_to_repurchase
+FROM ordered_purchases
+WHERE previous_purchase_date IS NOT NULL
+GROUP BY product;
 ```
+---
 
-`requirements.txt`:
-```
-pandas
-faker
-jupyter
-```
+## Strategic Action Plan & Managerial Decisions
+
+To expand net profit without increasing ad spend, we designed a Zero-Incremental-Budget Plan:
+
+### 1. Capital Reallocation (30% Spend Shift)
+- Reallocate 30% of TikTok top-of-funnel paid spend into the Ambassador commission program (increasing top creator commissions from 10% to 15%).
+- On TikTok, restructure initial offers away from single SKUs to High-AOV Entry Bundles ($80–$90 USD) to absorb the $15 CAC on the very first order.
+
+### 2. Pre-Depletion Automated Triggers (N - 3 Days)
+Empirical analysis identified a consistent ~5-day repurchase lag beyond the nominal product depletion cycle. Automating retargeting prompts 3 days prior to stockout captures replenishment intent before customers switch to competitors:
+- **Whey Protein** (30-day supply | 35-day actual repurchase) ──► Trigger Email/SMS at Day 27
+- **Pre-Workout** (45-day supply | 51-day actual repurchase) ──► Trigger Email/SMS at Day 42
+- **Creatine** (60-day supply | 65-day actual repurchase) ──► Trigger Email/SMS at Day 57
+- **Multivitamin** (90-day supply | 95-day actual repurchase) ──► Trigger Email/SMS at Day 87
+
+### 3. Channel-Specific Post-Purchase Onboarding
+Implement a dedicated 30-day educational sequence (workout routines, usage guides, recipes) specifically for paid social buyers (TikTok/Instagram) to bridge the engagement gap and curb impulse churn.
+
+### 4. Margin-Protected Subscribe & Save
+Offer dynamic checkout cross-sells paired with a 10% recurring discount on second deliveries. Expanding initial Order Value (AOV) protects gross margins above the 65% baseline while securing subscription lock-in.
 
 ---
 
-*Full methodology, stated assumptions, and the SQL/DAX detail behind every number above are documented in [`FitBrand_Executive_Report_ES.docx`](./FitBrand_Executive_Report_ES.docx).*
+## How to Run Locally
+
+### Prerequisites
+- Python 3.9+
+- Power BI Desktop (for `.pbix` inspection)
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/tomas-analizes/fitbrand-d2c-retention-analytics.git
+cd fitbrand-d2c-retention-analytics
+```
+### 2. Set Up Environment & Install Dependencies
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+pip install -r requirements.txt
+```
+### 3. Execute Data Pipeline
+```bash
+jupyter notebook notebooks/01_etl_and_eda_fitbrand.ipynb
+```
+### 4. Query Database directly via SQLite
+```bash
+sqlite3 data/database/fitbrand.db < sql/01_retention_and_ltv_by_channel.sql
+```
+---
+
+*Case Study developed by Data Analytics & Growth Operations Specialist.*
